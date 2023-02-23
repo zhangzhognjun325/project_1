@@ -1,0 +1,1132 @@
+﻿ID,Region of residence,Age of Subject,Time spent on Online Class,Rating of Online Class experience,Medium for online class,Time spent on self study,Time spent on fitness,Time spent on sleep,Time spent on social media,Prefered social media platform,Time spent on TV,Number of meals per day,Change in your weight,Healthissueduringlockdown,Stress busters,Time utilized,Relationship with around,What you miss the most
+R1,1,21,2,3,0,4,0,7,3,3,1,4,2,0,Cooking,1,1,School/college
+R2,1,21,0,4,1,0,2,10,3,2,0,3,0,0,Scrolling through social media,1,0,Roaming around freely
+R3,1,20,7,0,0,3,0,6,2,3,0,3,1,0,Listening to music,0,1,Travelling
+R4,1,20,3,0,1,2,1,6,5,0,0,3,0,0,Watching web series,0,0,"Friends , relatives"
+R5,1,21,3,3,0,3,1,8,3,0,1,4,1,0,Social Media,0,0,Travelling
+R6,1,21,0,0,1,6,0,5,1,2,0,1,0,1,Coding and studying for exams,0,1,School/college
+R7,1,19,2,0,1,2,1,5,4,0,0,3,2,0,Watching web series,0,1,"Friends , relatives"
+R8,0,19,2,0,2,1,1,10,5,0,0,3,2,1,Scrolling through social media,0,1,Eating outside
+R9,1,21,3,0,0,4,1,8,2,1,1,3,2,0,Online surfing,0,0,"Friends , relatives"
+R10,0,20,0,0,0,1,0.5,8,5,0,3,3,0,1,live stream watching,0,0,School/college
+R11,1,21,3,3,0,3,1,8,3,0,1,4,1,0,Social Media,0,0,Colleagues
+R12,1,21,1,0,0,0,1,7,3,0,1,2,2,1,Watching web series,1,1,Eating outside
+R13,1,21,3,2,0,0,0,8,3,0,0,3,2,1,Listening to music,0,0,School/college
+R14,0,22,1,3,0,2,0,7,0,6,0.5,2,2,0,Reading,1,1,Travelling
+R15,1,20,5,0,0,1,0,8,3,0,0,3,1,0,Scrolling through social media,0,0,Eating outside
+R16,1,22,3,2,1,3,1,6,2,0,1,3,2,0,Online gaming,1,1,Eating outside
+R17,0,20,0,3,1,0,0,8,2,8,1,3,2,0,Online gaming,0,1,Colleagues
+R18,1,20,1,0,1,2,1,8,1,2,0,3,1,0,Listening to music,0,0,Roaming around freely
+R19,1,21,0,0,0,4,0,7,7,2,0,2,1,0,Reading books,0,0,"Friends , relatives"
+R20,1,22,5,0,1,2,1,8,4,0,0,3,2,0,Dancing,1,1,"Friends , relatives"
+R21,1,20,4,4,0,5,0,6,2,3,1,2,0,0,Listening to music,1,1,Roaming around freely
+R22,1,21,5,2,0,2,1,10,5,0,2,3,1,0,Talking with friends ,1,0,School/college
+R23,1,21,4,0,1,1,0,8,6,0,1,4,0,0,Watching web series,0,1,School/college
+R24,1,21,4,2,0,2,1,7,1,3,0,3,0,0,Dancing,1,1,Travelling
+R25,1,20,3,0,1,4,2,9,2,0,1,3,0,0,Reading books,1,0,School/college
+R26,1,20,5,0,1,2,0,9,5,3,3,2,2,0,Talking to your relatives,1,1,Eating outside
+R27,1,21,4,0,0,5,0,8,3,0,0,2,2,1,Listening to music,0,1,School/college
+R28,1,20,3,0,0,6,0,9,2,1,0,2,1,0,Listening to music,0,0,Roaming around freely
+R29,1,31,8,2,0,4,1,6,2,3,0.5,3,1,0,Listening to music,1,1,Job
+R30,1,22,4,0,1,6,1,5,3,2,0,4,1,0,"sketching,reading books,meditation,songs",0,0,"Friends , relatives"
+R31,1,19,4,0,1,5,1,7,2,1,1,2,0,1,Listening to music,1,1,Roaming around freely
+R32,1,23,4,4,0,18,1,8,2,7,0,2,0,0,Reading books,1,1,Travelling
+R34,1,22,5,0,0,1,0,6,2,3,0.5,3,0,1,Watching web series,1,1,"Friends , relatives"
+R36,0,21,6,2,1,2,1,8,3,0,1,3,1,0,Cooking,0,1,"Friends , relatives"
+R37,1,17,4,0,0,1,1,7,1.5,0,0,3,0,0,Reading books,0,1,Travelling
+R38,0,20,4,2,0,2,0,8,2,0,0,3,2,0,Sleep,0,1,Eating outside
+R39,0,22,1,0,1,2,0.5,8,2,3,2,3,2,0,Listening to music,0,1,School/college
+R41,1,24,4,3,0,4,2,6,4,2,0,4,2,0,Social Media,1,1,Travelling
+R42,0,21,0,0,0,0,0,10,8,2,1,4,1,0,Watching web series,1,0,Travelling
+R43,1,20,7,0,1,2,1,8,2,1,2,4,1,1,Listening to music,0,0,Roaming around freely
+R44,1,21,5,0,0,3,1,8,1,0,0,2,2,0,Listening to music,0,0,Eating outside
+R45,1,18,2,2,1,2,3,12,1,3,0,4,1,0,Sleep,0,0,"Friends , relatives"
+R46,1,22,3,0,0,2,0,8,1,0,0,4,2,0,Cooking,0,1,Eating outside
+R47,1,20,2,0,1,6,2,7,1,0,3,6,0,0,Listening to music,1,0,Roaming around freely
+R48,1,20,2,0,1,3,0,6,2,2,0,3,0,1,Reading books,0,0,School/college
+R49,1,21,3,0,0,4,2,8,2,5,0,4,2,0,Listening to music,1,1,Travelling
+R50,1,18,4,3,0,2,0,8,4,0,0,3,1,0,Social Media,1,1,Colleagues
+R51,1,19,0,0,1,1,0,8,2,2,2,3,1,1,Online gaming,0,1,School/college
+R52,1,20,5,2,0,6,1,7,2,1,0,3,1,0,Reading books,0,1,Roaming around freely
+R53,1,21,3,2,0,17,0,5,1,2,0,3,2,0,Online gaming,0,0,"Friends , relatives"
+R54,1,19,0,2,1,2,2,10,1,0,0.5,4,1,0,Reading books,1,1,Roaming around freely
+R55,1,21,4,2,1,4,1,8,2,2,2,4,1,0,Sleep,1,1,Gym
+R56,1,19,4,0,1,2,0,7,1,1,0,3,2,1,Watching web series,1,1,Roaming around freely
+R57,1,19,2,0,1,2,2,8,1,2,0,4,2,0,Listening to music,0,1,"Friends , relatives"
+R58,1,18,1,0,1,8,0,8,5,2,2,3,2,0,Online surfing,1,1,School/college
+R59,1,20,5,2,0,1,1,7,1,1,0,3,2,1,Listening to music,0,1,School/college
+R60,1,21,0,0,1,5,0,8,1,0,1,3,1,0,Online gaming,1,0,Eating outside
+R61,1,22,6,0,0,6,0,6,1,0,0,2,2,0,Watching web series,1,0,"Friends , relatives"
+R62,1,20,3,0,0,6,1,8,1,0,2,4,2,0,Sleep,1,1,Roaming around freely
+R63,1,18,0,0,0,2,1,6,5,0,0,1,1,0,Crying,0,1,"Friends , relatives"
+R64,1,20,2,0,0,0,1,8,2,0,0,3,2,0,Watching web series,0,1,School/college
+R65,1,23,2,0,1,1,1,7,5,0,1,4,0,0,Listening to music,1,1,Roaming around freely
+R66,1,20,4,2,1,4,2,7,2,0,1,3,2,0,Listening to music,0,1,Eating outside
+R68,1,18,3,2,1,1,1,8,3,1,0.5,4,1,0,Dancing,1,1,Roaming around freely
+R69,1,20,1.5,0,1,3,2,9,1,2,1,2,0,1,Sleep,0,1,Travelling
+R70,1,19,2,0,2,2,1,8,5,0,0,4,0,0,Scrolling through social media,0,1,Roaming around freely
+R71,0,20,2,0,1,3,1,6,2,0,1,4,2,0,Listening to music,0,0,Travelling
+R72,1,22,6,0,1,4,0,7,2,1,0,1,2,0,Online gaming,0,0,Eating outside
+R73,1,20,2,0,1,2,0,7,3,1,2,2,1,0,Reading books,0,0,"Friends , relatives"
+R74,1,19,1,2,0,0.5,1,7,5,0,2,3,1,0,Many of these,0,1,"Friends , relatives"
+R75,1,18,3,0,1,2,2,8,8,0,0,4,1,0,Listening to music,0,1,School/college
+R76,0,19,3,2,1,5,0,5,4,9,0,2,2,1,Listening to music,1,0,Roaming around freely
+R77,1,19,0,0,1,1,1,8,2,0,0,3,0,0,Listening to music,1,1,School/college
+R78,1,20,3,2,0,3,0,10,10,4,4.5,3,2,0,Scrolling through social media,0,0,School/college
+R79,1,20,3,4,0,0,1,8,5,2,1,3,2,0,Online surfing,0,1,School/college
+R80,1,19,1,3,0,4,0,8,2,6,0,4,2,0,Web Series,1,1,Travelling
+R81,1,21,5,2,0,5,0,8,7,0,1,2,2,1,Scrolling through social media,0,1,"Friends , relatives"
+R82,1,21,3,3,1,2,1,10,1,2,0,3,1,0,Online gaming,0,0,Colleagues
+R83,1,19,2,0,1,2,0.5,9,3,0,1,2,2,0,Online gaming,1,1,School/college
+R84,1,20,0,0,0,1,1,12,2,0,2,2,2,0,Online gaming,0,1,Roaming around freely
+R85,0,21,1,1,1,8,0,10,1,1,0,3,0,0,Sleep,1,1,School/college
+R86,1,19,2,0,2,2,1,8,5,0,0,4,0,0,Scrolling through social media,0,1,Roaming around freely
+R87,1,20,5,2,1,3,1,7,1.5,0,0,3,2,1,drawing ,1,1,School/college
+R88,0,21,4,0,1,3,1,8,1,3,0,3,0,0,Meditation,0,0,All of them
+R89,1,18,3,0,1,4,1,7,1,1,0,4,1,1,Listening to music,0,0,Eating outside
+R90,0,19,4,2,1,3,1,7,3,0,2,3,2,0,Listening to music,1,1,School/college
+R91,0,25,4,0,1,3,1,7,1,0,0,3,1,1,Cricket,0,0,Eating outside
+R92,1,19,0,0,1,4,1,8,1,1,0,3,2,0,Listening to music,0,1,School/college
+R93,1,19,4,0,0,0,0,8,2,0,1.5,3,2,1,Anime Manga,0,0,School/college
+R94,1,20,4,3,1,2,2,8,6,0,0,3,0,0,Sleeping,1,1,School/college
+R95,1,20,2,2,1,3,1,5,4,0,1,3,2,0,Listening to music,0,1,School/college
+R96,1,19,5,3,2,3,1,8,2,7,0,2,1,0,Reading,0,1,Travelling
+R97,1,19,3,2,1,1,0,10,4,1,0,3,1,0,Listening to music,0,1,School/college
+R98,1,22,2,2,1,0,0,12,4,0,2,3,2,0,Online gaming,0,1,Eating outside
+R99,0,21,1,3,1,3,2,10,1,2,2,4,2,1,Meditation,0,1,Colleagues
+R100,1,21,1,0,1,2,1,8,1,1,0,3,2,0,Listening to music,0,0,School/college
+R101,0,16,6,1,1,2,2,7,2,2,1,3,1,0,Scrolling through social media,1,1,Travelling
+R102,0,21,3,2,0,5,0,8,7,3,1,2,1,0,Watching web series,0,1,School/college
+R103,0,21,4,0,1,4,1,7,1,1,0,4,0,1,Listening to music,1,0,Travelling
+R104,0,16,3,0,1,3,1,7,3,2,1,2,1,0,Listening to music,0,0,Friends and School
+R105,1,21,2,0,1,7,2,8,0.5,0,0,5,2,0,Reading books,1,1,Gym
+R106,0,23,4,4,0,6,1,8,0.3,1,0,3,2,0,Talking to your relatives,1,0,Travelling
+R107,1,19,2,0,1,1.5,1,7,2,2,0,2,1,0,Listening to music,0,0,School/college
+R108,1,20,1,0,1,2,1,8,1,0,0,3,2,0,Listening to music,0,0,School/college
+R109,1,18,2,0,1,3,1,8,1,0,1,3,0,0,Listening to music,1,1,Roaming around freely
+R110,0,10,3,3,2,3,0,10,1,2,4,3,1,0,Online gaming,1,0,Colleagues
+R111,0,20,0,0,1,2,2,8,0.15,3,0.3,2,0,0,Talking to your relatives,1,1,School/college
+R112,1,21,3,2,1,3,0,11,2,1,0,2,2,1,Sleep,0,1,School/college
+R113,1,19,1,0,1,4,1,8,1,2,0,4,1,0,Sleep,0,1,School/college
+R114,0,14,5,2,0,4,1,7,4,0,1,5,2,0,Scrolling through social media,0,0,"Friends,Romaing and traveling"
+R115,1,18,2,0,1,3,1,10,2,1,0,3,1,0,Online gaming,0,1,School/college
+R116,1,18,3,0,1,6,0,7,3,2,1,3,1,0,Reading books,1,0,School/college
+R117,0,24,4,4,0,8,1,8,2,2,2,3,2,0,Online surfing,1,1,"Friends , relatives"
+R118,0,14,3,3,1,5,1,12,0.3,0,1,3,1,0,Sleeping,1,1,Colleagues
+R119,0,21,4,3,0,2,2,7,2,0,1,3,2,0,Dancing,1,1,Travelling
+R120,1,19,2,2,1,6,1,6,1,0,0,3,2,0,Watching web series,0,1,School/college
+R121,1,18,2.5,2,1,2,1,8,1,2,0,4,1,0,Listening to music,0,1,Travelling
+R122,0,23,6,2,0,5,1,6,1,3,0,3,1,0,Meditation,1,1,School/college
+R123,0,21,4,2,1,4,1,8,1,2,0,3,1,0,Meditation,1,1,"Friends , relatives"
+R124,1,18,5,0,1,3,0,9,7,1,0,3,2,0,Watching web series,1,0,Roaming around freely
+R125,1,19,1,0,1,2,0,7,1,1,0,2,2,1,Sleep,0,0,School/college
+R126,0,20,5,2,1,4,1,7,2,1,1,3,2,0,Meditation,1,1,School/college
+R127,1,20,2,2,1,3,0.5,6.5,1,1,0.5,3,1,0,Listening to music,1,1,Roaming around freely
+R128,1,19,2,0,1,4,1,8,2,2,0,4,0,0,Sketching and writing,0,0,Roaming around freely
+R129,0,15,1,3,1,3,1,6,4,1,1.5,4,2,0,Listening to music,1,1,School/college
+R131,0,20,3,0,1,3,0,9,2,2,2,2,0,0,Meditation,1,1,Travelling
+R132,1,17,6,2,0,4,1,8,1,2,1,2,1,0,Listening to music,0,1,School/college
+R133,1,18,2,0,1,2,1,9,2,3,2,2,2,0,Watching web series,1,1,Travelling
+R134,1,20,2,0,1,4,0,10,4,1,2,3,0,0,Cooking,0,1,School/college
+R135,1,18,5,2,1,1,1,8,1,2,0,4,2,0,Sleep,1,1,Roaming around freely
+R136,1,22,0.1,1,1,2.5,1,12,0.3,2,0,5,2,0,Online gaming,0,1,Only friends
+R137,1,18,3,0,1,5,1,7,2,2,0,3,1,0,Online gaming,0,1,Roaming around freely
+R138,1,15,4,2,1,2,0.5,6,1,1,1,3,1,0,Dancing,0,1,Eating outside
+R139,0,22,1,0,0,10,1,7,1,1,0,3,1,0,Writing,1,1,Roaming around freely
+R140,1,19,3,0,0,2,1,9,1,2,0,3,0,0,Online gaming,0,1,School/college
+R141,1,20,3,0,1,5,0,7,2,0,1,2,1,1,Watching web series,1,1,School/college
+R142,0,20,3,0,1,3,0,9,2,2,2,2,0,0,Meditation,1,1,Travelling
+R143,1,20,1,0,1,1,0,6,0,6,0,2,2,0,Sleep,1,1,School/college
+R144,1,18,2,1,1,6,1,7,1,2,1,2,2,0,Listening to music,1,1,"Friends , relatives"
+R145,1,19,2,0,1,2,2,8,2,2,3,2,2,0,Watching web series,1,1,Eating outside
+R146,0,14,4,2,1,2,1,8,2,1,1,3,1,0,Listening to music,1,0,"Friends , relatives"
+R147,1,20,6,2,0,1,1,6,1,3,0,3,2,1,Talking to your relatives,1,1,School/college
+R148,1,20,3,2,0,2,1,8,2,3,2,3,1,0,Listening to music,0,0,Roaming around freely
+R149,1,19,6,0,1,3,0,7,2,1,0.5,2,2,1,Online gaming,0,1,"Friends , relatives"
+R150,1,19,1,2,0,1,1,10,1,0,0,3,1,0,Listening to music,1,1,Eating outside
+R151,1,18,2,0,1,2,1,10,2,1,0,3,1,0,Listening to music,0,0,Eating outside
+R152,0,21,4,0,1,4,1,8,2,0,0,3,2,0,Sleep,0,1,Roaming around freely
+R153,0,15,4,2,1,7,2,6,1,0,1,4,1,0,Listening to music,1,1,"Friends , relatives"
+R154,1,20,5,0,2,3,1,8,2,1,3,4,2,0,Listening to music,0,0,Roaming around freely
+R155,0,21,1,0,1,3,0,6,1,0,1,1,0,1,Reading books,0,1,Eating outside
+R156,1,19,0.5,0,1,7,2,7,0.1,0,0,4,1,1,Listening to music,1,1,"Friends , relatives"
+R157,1,20,3,0,0,1,0,6,2,4,0,2,2,0,pubg,0,1,Eating outside
+R158,1,21,5,2,1,1,0,5,1,1,0,2,0,0,Online gaming,0,0,Travelling
+R159,1,21,4,4,0,6,2,6,1,2,1,3,1,0,Cooking,1,1,Eating outside
+R160,1,21,3,0,1,2,0,7,2,5,0,3,2,1,Reading books,0,1,School/college
+R161,1,20,4,2,0,2,0,7,2,7,4,3,2,0,Online gaming,0,0,"Friends , relatives"
+R162,0,20,6,0,1,3,0,8,4,3,2,3,2,1,Sleep,0,1,School/college
+R163,0,23,0,0,0,1,0,10,4,3,0,4,2,0,Online gaming,0,1,Travelling
+R164,0,21,4,0,1,3,1,8,1,2,1,3,1,1,Online surfing,0,1,"Friends , relatives"
+R165,1,22,1,0,1,4,1,7,2,3,0,2,2,1,Watching web series,0,0,Roaming around freely
+R166,1,23,3,3,2,0,0,12,4,0,0,2,2,0,Cooking,0,0,Travelling
+R167,1,22,4,3,1,4,0.5,8,2,1,0,3,2,0,Sleeping,1,0,School/college
+R168,0,21,0,0,1,1,0,7,10,1,0,7,2,0,Listening to music,0,1,School/college
+R169,0,20,0,0,1,3,2,12,1,0,0,3,2,0,Scrolling through social media,0,0,School/college
+R170,0,15,4,2,1,2,3,7,1,0,2,4,2,0,Online gaming,0,1,"Friends , relatives"
+R171,0,20,0,0,1,3,2,8,2,1,1,3,1,1,Listening to music,1,1,School/college
+R172,0,20,0,0,1,1,0,8,0.5,1,1,3,0,1,Reading books,0,1,Roaming around freely
+R173,0,16,4,4,0,3,2,10,1,2,1,3,2,0,Online gaming,1,1,"Friends , relatives"
+R174,0,22,1,2,1,3,1,7,1,1,0,3,1,0,Sleep,0,1,School/college
+R175,1,20,5,2,0,4,0,10,2,3,4,3,0,0,Sleep,1,1,Roaming around freely
+R176,0,21,0,3,1,4,1,8,2,0,0,2,0,1,Online gaming,1,1,Colleagues
+R177,0,34,3,3,0,3,1,7,1,1,2,3,1,0,Sleeping,1,1,Travelling
+R178,0,22,0,2,0,3,1,9,0,9,2,5,0,0,Watching web series,0,1,Roaming around freely
+R179,1,22,6,3,0,2,1,8,4,0,0,4,1,0,Online gaming,0,1,Colleagues
+R180,0,21,1,2,0,1,2,7,2,2,1,4,2,0,Listening to music,0,1,"Friends , relatives"
+R181,0,20,1,0,1,2,1,8,3,1,0,3,1,0,Watching web series,1,0,"Friends , relatives"
+R182,0,21,3,2,1,0.5,3,6,2,0,0,3,1,0,Online gaming,1,1,School/college
+R183,0,19,2,0,1,2,1,8,2,0,2,3,2,1,Listening to music,1,1,Roaming around freely
+R184,0,22,1,0,1,7,0,7,1,4,0,3,1,0,Talking to your relatives,1,1,"Friends , relatives"
+R185,0,20,3,0,0,1.5,1,6,2,8,1.5,2,0,1,Watching web series,0,0,"Friends , relatives"
+R186,0,14,4,0,1,1,0,9,1.5,1,5,3,1,0,Reading books,0,1,"Friends , relatives"
+R187,1,22,1,2,1,4,0.5,11,1,0,0,3,1,1,Listening to music,0,0,School/college
+R188,0,22,2,2,0,5,0,8,3,0,1,3,2,0,Listening to music,1,1,School/college
+R189,1,19,2,1,1,10,0.25,8,2,0,0,3,2,0,Talking to your relatives,1,1,School/college
+R190,0,21,1,2,1,0,1,6,2,1,0,2,0,0,Online gaming,0,1,School/college
+R191,0,15,5,2,1,5,0,7,3,0,2,3,1,0,Watching web series,0,1,School/college
+R192,0,21,3,3,0,3,0.5,8,4,2,0,3,1,0,Web Series,0,1,Colleagues
+R193,1,21,3,0,1,8,3,7,3,2,0,3,0,1,Talking to your relatives,0,0,School/college
+R194,0,34,3,2,0,3,1,8,1,1,1,3,1,0,Talking to your relatives,1,1,Travelling
+R195,0,22,3,0,0,0,5,8,10,5,0,3,1,0,Talking to your relatives,0,1,"Friends , relatives"
+R196,0,34,1.5,1,0,1,0,6,1,3,0,2,1,1,Online surfing,0,0,Taking kids to park
+R197,1,21,4,3,0,4,1,7,2,0,2,3,1,0,Talking,1,1,Colleagues
+R198,0,20,3,2,0,3,1,7,1,0,0,3,1,0,Listening to music,1,1,School/college
+R199,0,20,3,0,0,5,0,7.5,2,1,0.5,4,2,0,Sleep,1,0,School/college
+R200,0,25,2,0,0,3,1,8,4,4,1,2,2,0,Watching web series,0,0,Roaming around freely
+R201,0,19,0.5,0,1,3,1,8,1,0,0,2,1,0,Sleep,1,1,School/college
+R202,1,26,5,2,0,10,1,8,1,2,0.5,2,1,0,Meditation,1,1,Roaming around freely
+R203,0,20,3,3,0,4,0,8,2,2,0,3,1,0,Cooking,1,1,Travelling
+R204,1,24,7,0,0,7,2,7,2,2,0,3,1,0,Reading books,1,1,Travelling
+R205,1,21,0,0,0,0,2,12,6,4,0,4,2,0,Watching web series,0,0,Travelling
+R206,1,20,5,3,1,2.5,1,9,3,0,0.5,2,1,0,Dancing,1,1,School/college
+R207,1,16,7,2,2,4,1,7,1,1,0,3,1,0,Reading books,1,1,All of the above 
+R208,1,17,6,2,0,1,0,7,2,8,0,2,1,0,Online gaming,1,0,"Friends , relatives"
+R209,1,59,3,2,1,6,1,9,0.5,1,1,2,2,0,Sleep,1,1,School/college
+R210,1,17,7,3,1,4,0,7,1,1,1,2,2,0,Listening to music,1,0,School/college
+R211,1,16,6,0,1,5,0,7,2,2,0,3,2,0,Online surfing,0,1,"Friends , relatives"
+R212,0,20,3,2,0,4,1,7,2,3,2,3,1,0,Talking to your relatives,1,0,School/college
+R214,1,17,6,0,1,1.5,2,7,2,0,0.5,4,2,0,Workout ,1,0,Travelling
+R215,1,17,6,2,0,5,0.5,7,1,1,1,2,1,0,Listening to music,0,0,Eating outside
+R216,1,20,3,3,0,4,0,7,4,1,0,2,1,1,Social Media,1,1,Colleagues
+R217,0,17,6,2,2,2,1,7,1,1,1,4,1,0,Reading books,0,1,"Friends , relatives"
+R218,1,20,4,0,1,2,0,7,0.5,1,0.5,3,2,0,Sleep,0,0,School/college
+R219,0,16,8,3,0,7,0,6,1,1,0.5,3,1,0,Social Media,0,0,Travelling
+R220,1,19,0.5,0,1,5,0.5,10,1,1,1,2,1,1,Meditation,1,0,School/college
+R221,1,20,0,0,0,2,0,10,3,0,2,4,2,0,Sleep,0,1,"Friends , relatives"
+R222,0,22,4,2,0,3,1,8,3,1,0,4,2,0,Online gaming,1,0,Travelling
+R223,0,17,9,1,0,3,0,5,0.5,0,1,3,1,0,Listening to music,0,0,All the above
+R224,1,23,1,0,1,8,2,8,2,0,2,3,0,0,Online gaming,1,1,"Friends , relatives"
+R225,0,22,0,0,0,3,0,10,8,0,0,2,2,1,Watching web series,1,1,"Friends , relatives"
+R226,1,22,1.5,2,0,0,0,9,6,0,2,3,2,0,Scrolling through social media,1,1,School/college
+R227,0,19,2,0,1,2,1,8,2,1,1,3,0,1,Scrolling through social media,0,1,Roaming around freely
+R228,1,19,2,0,1,5,1,9,2,5,0,4,1,0,Listening to music,1,0,School/college
+R229,0,23,1,0,0,1,0,8,5,1,0,4,2,0,Talking to your relatives,0,1,Eating outside
+R230,0,32,4,3,0,5,2,5,3,4,0,3,1,0,Reading,1,1,Colleagues
+R231,1,17,6,2,1,12,1,8,2,1,3,4,1,0,Sleep,0,0,Travelling
+R233,1,22,4,2,0,3,2,8,2,1,0.5,4,2,0,Sleep,1,1,Roaming around freely
+R234,0,17,6,0,4,4,2.5,8,0.5,0,0,3,1,0,Reading books,1,1,School/college
+R235,0,17,5,2,0,1.5,2,8,1,2,3,3,0,0,Cooking,1,1,"Friends , relatives"
+R236,1,22,5,3,0,10,1,6,1,13,0,3,1,1,Online gaming,1,1,School/college
+R237,0,18,2,0,1,2,2,9,4,2,0,3,2,0,Online gaming,0,1,School/college
+R238,1,20,5,0,0,12,0,7,1,8,0,3,2,0,Reading books,0,1,Roaming around freely
+R239,0,30,3,2,1,1,0.5,4,1,1,0.5,2,1,0,Meditation,1,1,School/college
+R240,1,19,1,2,0,1,0,8,1,2,2,4,1,0,Whatever want,0,0,Eating outside
+R241,0,14,3,3,0,2,0,8,1,1,1,1,2,0,Cooking,1,1,School/college
+R243,0,16,7,2,1,3,2,11,1.5,0,1,3,0,1,Online gaming,0,1,School/college
+R244,1,17,6,2,1,2,1,9,3,0,0.5,3,1,0,Sleep,0,1,"Friends , relatives"
+R245,1,20,1,0,2,2,2,8,1,2,0,2,0,0,Reading books,0,1,School/college
+R246,1,17,4,3,1,2,0,7,3,0,2,4,2,0,Social Media,1,1,School/college
+R247,1,20,6,2,4,2,0,6,4,0,0,3,2,0,Listening to music,0,0,Roaming around freely
+R249,0,17,5,2,1,4,2,7,2,2,2,2,2,0,Online gaming,0,1,School/college
+R250,1,21,3,0,0,2,0,7,2,4,2,3,1,0,Online gaming,1,0,Going to the movies
+R251,1,16,4,1,0,0,0,9,1,1,1,2,1,0,Listening to music,0,1,School/college
+R252,1,21,5,2,1,2,2,6,5,0,0,3,2,0,Scrolling through social media,0,1,Roaming around freely
+R254,0,20,4,3,0,5,1,7,0.1,1,0,4,1,0,Reading,0,0,School/college
+R255,0,14,4,2,1,4,0,8,2,0,2,3,2,0,Listening to music,0,1,School/college
+R256,1,19,3,3,0,2,0,8,5,2,1.5,3,2,0,Web Series,0,1,School/college
+R257,1,18,0,0,0,3,0,8,4,4,1,3,2,0,Watching web series,0,1,"Friends , relatives"
+R258,0,13,5,0,0,4,1,8,10,1,0,3,0,0,Cooking,0,0,School/college
+R259,0,20,4,0,0,8,0,6,1,0,0,3,0,0,Listening to music,1,1,Eating outside
+R260,0,19,0,0,0,4,0.3,8,2,1,0,2,1,0,Talking to your relatives,0,0,School/college
+R261,0,15,5,2,1,1,0,7,1,2,1.5,3,1,0,Online gaming,0,1,School/college
+R262,0,20,1,0,1,0,0,10,5,2,1,2,2,1,Sleep,0,1,School/college
+R263,1,19,0,0,0,1,0,8,4,5,2,3,2,0,Watching web series,0,0,"Friends , relatives"
+R264,0,21,3,3,0,3,1,6,0.5,1,0.5,2,2,1,Listening to music,1,0,Travelling
+R265,0,20,4,0,0,2,1,8,4,2,0,4,2,0,Listening to music,0,1,"Friends , relatives"
+R266,1,20,4,3,0,5,1,6,2,2,0.5,2,1,0,Listening to music,0,1,Colleagues
+R267,0,16,6,3,0,3,0,7,1,1,1,3,1,0,Listening to music,0,0,School/college
+R268,1,21,2,1,0,2,1,5,3,1,1,3,1,0,Reading books,1,1,Roaming around freely
+R269,1,17,5.5,3,1,5,1,9,1,2,1,3,1,0,Listening to music,0,1,Colleagues
+R270,1,21,0,2,0,12,0,7,3,2,0,3,1,0,Reading books,1,1,Nothing
+R271,1,20,0,3,1,0,0,7.5,3.5,2,2,3,1,0,Indoor Games,1,1,Nothing
+R272,1,21,4,2,0,2,1,8,3,0,0,2,1,0,Online gaming,0,0,Eating outside
+R273,1,20,3,0,1,5,1,7,1,1,0,3,2,0,Sleep,0,1,Roaming around freely
+R274,0,16,4,1,5,2.5,0.5,6,0.5,1,1,3,1,0,"watching movies,reading books,games,listening to music,sleep,dancing",1,1,"school, relatives and friends"
+R275,0,19,0,0,0,8,1,8,2,1,0,2,2,1,Cooking,1,1,Roaming around freely
+R276,1,19,1,0,0,3,0,8,3,0,3,3,2,1,Listening to music,1,1,Roaming around freely
+R278,0,19,1,4,0,1,3,9,2,2,0,5,1,0,Listening to music,0,1,Travelling
+R279,1,20,2,3,0,1,0,10,1,1,0,2,1,0,Online gaming,0,1,Colleagues
+R280,1,19,2,2,1,3,1,9,3,1,3,3,2,0,Sleep,0,1,School/college
+R281,0,17,7,2,0,2,0,6,2,2,2,2,2,0,Sleep,1,1,School/college
+R282,1,21,0,0,0,2,0,8,3,1,5,3,0,0,Watching web series,0,0,Roaming around freely
+R283,0,17,6,3,1,4,0,7,1,1,2,3,0,0,Listening to music,1,0,School/college
+R285,1,25,5,2,0,6,0,8,1,0,0,3,1,0,Listening to music,1,0,Roaming around freely
+R286,1,19,3,2,0,6,0.5,8,0.6,3,1.5,4,2,0,Reading books,1,1,School/college
+R287,1,16,5,0,1,2,1,8,2,1,0,3,2,0,Online gaming,0,1,"Friends , relatives"
+R288,1,17,7,3,1,5,0.5,7,2,1,2,3,2,0,Online gaming,0,0,All 
+R289,1,18,1,2,1,2,0,10,1,0,0.5,2,1,0,Reading books,0,0,Roaming around freely
+R290,0,20,5,4,0,1,1,8,3,0,0,3,1,0,Listening to music,1,0,"Friends , relatives"
+R291,1,20,3,0,0,9,1,6,1,1,0,1,2,0,Meditation,0,1,Roaming around freely
+R292,1,20,1,0,0,3,1,9,4,0,0,2,2,0,Scrolling through social media,1,1,School/college
+R293,1,22,3,2,1,3,0,8,2,0,1,3,2,0,Talking to your relatives,0,0,School/college
+R294,0,16,7,4,2,2,1,6,2,1,0,3,0,0,Online surfing,1,0,School/college
+R295,1,19,2,0,0,1,1,7,5,0,1,4,1,0,Talking to your relatives,0,1,"Friends , relatives"
+R296,0,17,9,2,0,5,1,6,1,2,0,3,0,0,Listening to music,1,0,Travelling
+R297,0,20,0,2,0,1,0,9,5,1,2,4,1,1,Listening to music,1,1,Travelling
+R298,1,21,0,0,0,6,0,6,4,2,2,3,2,0,Meditation,0,1,Roaming around freely
+R299,0,19,2,0,0,3,1,8,1,0,2,4,1,0,Watching web series,1,1,Travelling
+R301,1,17,8,0,1,2,1,9,0,1,0,3,1,0,Listening to music,0,0,All
+R302,0,25,1,2,0,3,1,7,3,1,2,3,2,0,Reading books,0,1,Travelling
+R303,1,20,3,2,1,2,0.5,8,3,1,0,3,1,0,Listening to music,0,1,"Friends , relatives"
+R305,0,19,5,4,1,5,1,7,2,2,3,3,2,0,Sleep,0,1,Travelling
+R306,1,23,5,2,1,5,1,8,1,1,2,3,1,0,gardening cartoon,1,1,Roaming around freely
+R307,0,22,2,2,0,8,1,8,2,3,1,2,1,0,Listening to music,1,0,School/college
+R308,0,22,4,2,0,1,1,8,4,2,1,3,2,0,Online surfing,1,0,Roaming around freely
+R310,1,21,3,2,0,3,2,6.5,2,2,2,2,2,0,Scrolling through social media,0,1,"Friends , relatives"
+R311,0,22,1,2,1,3,1,8,1,0,0,2,0,1,Cooking,0,0,Roaming around freely
+R312,0,24,3,0,0,4,0,6,3,1,4,3,1,0,Listening to music,0,0,School/college
+R313,1,14,3,2,2,6,3,7,3,0,1,2,1,0,"listening to music,reading books and dancing.",1,1,all of the above
+R314,0,16,4,0,1,3,0,8,4,2,0,4,1,0,Dont get distreessed,1,0,Nothing 
+R315,1,19,1,2,0,3,2,7,1,0,2,2,1,1,Online gaming,0,0,School/college
+R316,0,21,5,0,0,3,2,10,6,2,1,3,2,1,Online gaming,1,0,Eating outside
+R317,1,17,2,2,0,5,0,8,4,2,0,3,1,0," listening music, motion design, graphic design, sleeping.",1,0,Eating outside and friends.
+R318,1,16,4,3,1,2,0.5,9,1,0,0.1,3,2,0,Sleeping,0,1,Colleagues
+R320,1,29,8,3,0,2,1,8,0.5,0,2,4,1,0,Web Series,0,0,Travelling
+R321,0,26,1,3,0,4,0,6,6,4,4,3,1,0,Talking,0,1,Travelling
+R322,1,21,5,0,1,2,1,12,2,0,1,4,2,0,Listening to music,1,0,School/college
+R323,0,18,0,0,1,0,2,7,6,0,0,4,2,0,Business,1,1,"Friends , relatives"
+R324,1,19,3,0,1,0,0,12,5,0,0,3,0,0,Online gaming,0,0,Eating outside
+R325,1,21,2,2,0,2,1,10,2,2,0.25,3,1,0,Sleep,1,0,School/college
+R326,1,12,1,3,0,3,2,8,2,2,1,4,2,0,Reading,1,1,Colleagues
+R327,1,26,0,0,1,1,1,7,1,1,2,2,0,0,Online gaming,0,1,Travelling
+R328,0,20,6,0,0,6,0,6,3,1,0,4,2,0,Reading books,0,1,School/college
+R329,1,16,4,0,1,2,1,9,2,2,1,2,0,0,Many among these ,0,0,Travelling
+R330,1,21,0,2,0,2,0,10,5,5,1,3,2,0,Listening to music,1,0,School/college
+R331,0,21,5,2,0,2,0,8,0.5,1,1,2,2,0,Sleep,0,1,"Friends , relatives"
+R332,1,20,6,2,0,4,0,7,1,3,0,3,2,0,Cooking,1,1,School/college
+R333,1,21,0,0,0,2,1,7,1,0,0,4,1,1,Listening to music,1,0,Travelling
+R334,0,21,2,2,1,2,1,7,1,1,4,3,1,0,Online surfing,1,0,All above
+R335,1,19,1,0,0,0,0,12,10,0,2,2,1,0,Online gaming,0,0,Nothing
+R336,0,21,2,2,0,2,0,8,2,0,1,3,1,1,Reading books,0,1,Eating outside
+R337,1,14,5,2,1,2.3,0,8,2,2,3,2,1,0,Scrolling through social media,1,1,Travelling
+R338,1,22,1,2,0,2,0,11,3,1,3,2,2,1,Dancing,0,0,"Friends , relatives"
+R339,1,19,2,2,1,2.5,0,9,2,4,1,3,1,0,Online surfing,0,0,"Nah, this is my usual lifestyle anyway, just being lazy...."
+R340,0,18,4,2,1,1,1,12,1,0,1,2,2,0,Watching web series,0,1,All
+R341,0,16,8,2,0,6,0,6,1,2,0,4,1,0,Watching web series,1,0,"Friends , relatives"
+R342,0,43,2,2,1,0,1,6,2,4,0.5,3,2,0,Talk with childhood friends.,0,1,Family 
+R343,0,15,4,0,2,10,0,8,1,5,1,3,1,0,Listening to music,0,1,"Friends , relatives"
+R344,0,32,1,0,0,10,1,8,2,5,0,3,2,0,Reading books,1,1,School/college
+R345,1,15,3,3,0,3,1,7,1,2,2,2,2,0,Sleeping,1,1,Colleagues
+R354,0,21,3,2,0,3,1,8,2,0,0,3,2,0,Watching web series,0,1,Eating outside
+R355,1,15,5,2,1,3,3,8,3,0,2,3,1,0,Online gaming,1,1,School/college
+R356,1,34,2,2,0,3,1,7,2,5,1,3,1,0,Sleep,1,1,Travelling
+R357,1,17,0.75,2,1,5,1,6,2,2,2,1,2,1,Reading books,0,1,School/college
+R358,1,12,1,4,1,2,1,9,2,2,1,3,2,0,Online gaming,1,1,School/college
+R359,1,16,1,2,1,2,1,7,2,1,3,3,1,0,Listening to music,0,1,School/college
+R360,1,17,7,2,0,8,1,6,1,1,1,3,2,0,Listening to music,1,1,School/college
+R361,1,14,2.5,3,1,1,0.5,6,2,2,1,2,0,0,Cooking,1,1,Colleagues
+R362,0,16,4,2,1,5,1,6,2,1,2,2,1,0,Dancing,1,0,Travelling
+R363,1,13,2,4,1,1,3,11,3,2,2,4,2,0,Reading books,0,1,Eating outside
+R364,1,23,0,2,0,2,0,7,3,3,0,3,1,0,Listening to music,1,0,Roaming around freely
+R365,1,21,6,0,1,0,1,7,4,0,1,4,2,0,Listening to music,1,1,Only friends
+R366,0,31,4,4,0,2,1,8,1,4,1,3,2,0,Sleep,1,0,School/college
+R367,1,23,5,4,1,1,1,9,2,1,0,4,0,0,Online gaming,1,1,Football
+R368,1,13,1,4,1,5,3,6,2,0,2,7,2,0,Exercise,1,1,School/college
+R369,1,21,3,2,0,0,1,8,3,0,0,3,2,1,Listening to music,0,0,School/college
+R370,1,17,6,2,0,2.5,1,6,0,6,0.5,3,1,0,Reading books,1,1,Roaming around freely
+R371,1,23,3,3,0,3,0,7,2,3,0,3,1,0,Cooking,0,1,Travelling
+R372,1,13,1,4,1,2,0,8,0,6,4,3,2,0,Watching web series,1,0,"Friends , relatives"
+R373,1,20,1,2,0,2.5,0,6,4,0,1,3,1,0,Online gaming,1,1,Roaming around freely
+R374,1,13,0.5,2,1,2,2,10,2,2,0,3,2,0,Online gaming,1,0,School/college
+R375,1,14,2,4,1,1,1,8,1,1,2,1,2,1,Online gaming,1,1,School/college
+R376,1,40,1,2,0,2,1,6,4,1,0,2,1,0,Online surfing,0,1,Eating outside
+R377,1,12,1,4,1,1.2,0.5,10,0,1,2,3,2,0,Talking to your relatives,1,1,"Friends , relatives"
+R378,1,20,3,0,0,2,1,8,4,3,0,3,1,1,Listening to music,0,1,Travelling
+R379,1,12,1,3,1,2,0.5,8,2,1,2,4,1,0,Listening to music,0,1,Travelling
+R380,1,21,3,2,0,3,0,8,2,0,0,4,0,0,Sleep,0,1,Travelling
+R381,1,42,4,3,0,3,0,7,1,4,0.5,2,2,0,Social Media,1,1,Travelling
+R382,0,20,3,3,1,4,2,7,4,1,0.5,4,1,1,Talking,0,1,School/college
+R391,1,23,3,3,1,1,0,6,2,1,3,3,1,0,Listening to music,0,1,Colleagues
+R392,1,12,2,4,1,2,1,10,1,2,1,4,1,0,Reading books,1,1,School/college
+R393,0,17,2,4,1,3,1,6,2,1,2,1,2,0,Talking to your relatives,1,1,School/college
+R394,0,18,1,2,0,1,0,8,4,0,0,3,0,0,Watching web series,1,1,Roaming around freely
+R395,0,20,1,2,0,2,2,9,4,0,5,2,1,0,Listening to music,1,0,Travelling
+R396,0,17,5,2,1,3,1,6,1,4,2,1,1,0,Online gaming,1,1,School/college
+R397,1,20,1,2,0,4,0,8,3,0,0,3,1,0,Watching web series,0,0,"Friends , relatives"
+R398,1,20,3,0,0,4,1,8,2,1,0.5,4,1,0,Cooking,1,1,Roaming around freely
+R399,1,19,0.75,1,0,2,1,6,4,2,0,2,1,0,"Netflix, Friends and Books",0,1,"Friends , relatives"
+R400,0,20,4,3,0,2,0,11,1,1,0,3,2,0,Listening to music,0,1,Travelling
+R401,1,16,2,4,1,5,1,8,4,1,4,3,2,0,Online gaming,1,1,School/college
+R402,1,13,3,4,1,2,0,8,1,2,0,3,1,0,Listening to music,1,1,"Friends , relatives"
+R403,1,20,0,3,0,4,1,7,4,2,2,3,1,1,Web Series,0,1,Travelling
+R404,0,14,3,4,1,2,0,10,1,2,1,2,1,0,Listening to music,0,1,School/college
+R405,1,17,2,3,1,1,1,8,3,4,2,3,0,0,Online gaming,1,1,Travelling
+R406,0,20,1,0,0,1,0,12,2,5,1,3,2,0,Listening to music,0,1,Eating outside
+R407,1,17,7,4,1,1,1,4,1,2,0,1,0,0,Cooking,1,1,School/college
+R408,0,13,2,4,1,1,1,6,2,1,0,1,0,1,Reading books,1,1,School/college
+R409,1,13,1,3,1,2,1,8,3,2,0.5,3,1,0,Online gaming,1,1,School/college
+R410,0,20,2,0,0,4,1,8,2,0,0,3,1,0,Meditation,1,1,"Friends , relatives"
+R411,0,27,0,3,0,2,0,10,6,1,6,3,0,0,Online gaming,0,1,Colleagues
+R412,1,20,1,3,0,0,1,7,2,0,0,3,0,0,Web Series,1,0,Eating outside
+R413,1,20,5,0,0,3,1,7,4,5,0,3,0,0,Listening to music,1,1,Roaming around freely
+R414,1,17,4,2,1,1,1,8,5,2,0.3,2,2,0,Online gaming,0,1,"Friends , relatives"
+R415,1,27,3,4,0,2,2,7,1,0,0,3,0,1,Listening to music,1,1,Travelling
+R416,0,14,1,3,1,3,1,9,1,6,0,3,2,0,Online gaming,1,1,School/college
+R417,1,9,1,2,0,1,0,8,0,2,1,3,2,0,Listening to music,0,0,Roaming around freely
+R418,1,14,5,2,1,1,1,7,1,1,4.5,2,0,0,Watching web series,0,1,"Friends , relatives"
+R419,1,36,2,4,2,3,1,7,5,2,3,3,2,0,Online gaming,0,1,"Friends , relatives"
+R420,1,8,2,4,0,2,1,8,1,1,2,3,1,0,Dancing,1,1,Roaming around freely
+R421,1,20,2,2,0,1,1,7,1,1,1,2,1,0,Watching web series,1,1,School/college
+R422,0,12,2,2,0,1,1,7,2,0,2,2,2,0,Sleeping,1,1,"Friends , relatives"
+R423,1,19,8,4,0,10,1,6,1,3,0,4,1,0,Online gaming,1,1,School/college
+R424,0,24,0,4,0,3,1,8,3,0,0,3,0,0,Online gaming,1,0,Travelling
+R425,1,20,2,2,0,2,2,8,3,0,0,3,1,0,Watching web series,1,1,Roaming around freely
+R426,1,22,1,0,1,3,0,7,3,2,2,3,1,0,Watching web series,0,1,Roaming around freely
+R427,0,20,3,0,0,0,1,9,4,2,4,4,0,0,Sleeping,0,1,"Friends , relatives"
+R428,1,12,1,4,1,3,1,6,1,2,1,1,1,0,Cooking,0,1,"Friends , relatives"
+R429,0,21,0,0,0,1,0,6,6,0,1,3,1,1,Scrolling through social media,0,0,School/college
+R430,1,20,2,2,0,3,2,7,3,0,1,2,0,0,Talking to your relatives,1,1,Roaming around freely
+R431,0,32,1,2,1,0,0,14,2,4,2,3,1,0,Watching web series,0,1,School/college
+R432,0,28,4,3,0,4,1,12,2,2,0,3,0,0,Social Media,1,1,Travelling
+R433,1,21,2,0,0,0,1,12,5,0,5,4,1,0,Listening to music,0,0,School/college
+R434,0,21,2,2,0,2,1,8,2,1,2,3,1,1,Watching web series,1,1,"Friends , relatives"
+R435,1,15,5,2,0,3,1,10,3,0,1,4,1,0,Listening to music,1,1,All
+R436,0,19,1,0,0,0,1,9,8,2,0,3,1,0,Online gaming,0,0,"Friends , relatives"
+R437,0,19,3,0,0,1,0,5,1,2,2,3,2,0,Watching web series,0,1,School/college
+R438,0,18,3,0,1,2,0,8,2,0,0.5,3,1,0,Scrolling through social media,0,1,"Friends , relatives"
+R439,1,14,7,0,2,3,0,8,0,6,1,2,0,0,Sleeping,0,0,Travelling
+R440,0,18,1,4,1,2,1,8,1,4,0,2,1,0,Online gaming,1,1,"Friends , relatives"
+R441,1,50,2,3,1,2,0,6,2,2,1,3,1,0,Listening to music,1,0,School/college
+R442,0,20,0.7,0,0,3.5,0.5,8,3,0,0.6,4,2,0,Reading books,1,1,Roaming around freely
+R443,0,16,2,0,0,2,1,9,2,0,0.5,2,1,1,Listening to music,0,1,Roaming around freely
+R444,1,13,2,3,1,1,0,11,2,2,3,2,2,1,Social Media,0,0,School/college
+R445,1,20,3,0,0,4,1,8,2,5,0,3,1,0,Reading books,1,1,Eating outside
+R446,1,21,0,0,0,2,1,7,2,1,7,3,2,0,Watching web series,0,0,"Friends , relatives"
+R447,1,14,3,4,0,5,2,10,3,4,3,3,0,0,Listening to music,1,1,"Friends , relatives"
+R448,0,20,0,0,0,2,0,7,5,0,0,2,0,1,Listening to music,0,1,"Friends , relatives"
+R449,1,22,3,2,0,2,0,7,3,2,0,3,2,0,Reading books,1,1,Eating outside
+R450,1,13,0.75,4,1,2,0,7,1,2,0,1,1,0,Reading books,1,0,School/college
+R451,1,13,3,3,1,3,1,8,1,1,0.5,2,2,0,Online gaming,1,1,School/college
+R452,1,16,6,3,1,3,1,6,1,2,1,1,0,0,Talking,1,1,Colleagues
+R453,0,35,4,2,1,2,1,6,0.5,4,1,2,1,0,Online surfing,0,1,Roaming around freely
+R454,0,45,3,4,0,4,1,8,2,2,1,3,2,0,Meditation,1,1,"Friends , relatives"
+R455,1,16,0,3,1,0,2,6,1,4,4,2,1,0,Online gaming,0,1,Colleagues
+R456,1,20,4,0,0,6,0,8,0,2,0,2,1,0,Reading books,1,1,School/college
+R457,0,21,0,1,0,9,0,7,2,0,0,3,1,0,Listening to music,1,0,"Friends , relatives"
+R458,1,23,6,2,0,4,1,9,1,0,0,4,1,0,Listening to music,0,0,"Friends , relatives"
+R459,0,21,2,2,0,4,1,8,8,0,1,2,2,0,Scrolling through social media,1,1,School/college
+R460,1,20,7,3,0,2,0,8,4,4,3,4,2,0,Social Media,0,0,Travelling
+R461,0,19,0,0,1,5,0.5,7,4,0,0,3,1,0,Reading books,1,1,Travelling
+R462,0,18,4,0,1,2,1,12,2,0,0,3,1,0,Listening to music,1,0,"Friends , relatives"
+R471,0,20,5,3,0,7,0,6,1,3,0,4,2,0,Web Series,1,1,Travelling
+R472,1,20,0,0,0,10,4,6,2,1,0,7,0,0,Listening to music,1,1,"Friends , relatives"
+R473,0,20,4,0,0,5,1,9,2,2,0,4,2,0,Listening to music,0,1,Eating outside
+R474,0,19,4,2,0,0,0,8,6,0,1,3,2,0,Online gaming,0,1,School/college
+R475,1,19,0,3,0,3,1,8,3,0,1,3,2,0,Social Media,0,0,School/college
+R476,1,7,2,3,1,2,1,9,1,1,2,3,2,0,Online gaming,0,1,Travelling
+R477,0,21,2,2,0,0,1,7,3,0,0,2,1,0,Online gaming,1,1,School/college
+R478,1,23,4,0,0,10,1,7,1,1,0,2,0,0,Listening to music,1,1,Travelling
+R479,1,20,5,0,0,2,0,13,4,0,0,2,2,0,Scrolling through social media,0,0,School/college
+R480,1,20,4,0,1,4,0,8,4,0,3,3,1,0,Online gaming,1,1,Eating outside
+R481,0,19,4,0,0,3,1,8,3,1,2,3,2,0,Meditation,1,1,School/college
+R482,1,20,4,0,0,2,1,8,2,2,0,3,2,0,Dancing,1,1,"Friends , relatives"
+R483,0,18,4,2,1,1,0,9,4,1,1,3,0,1,Online gaming,0,1,Eating outside
+R484,1,21,4,0,2,0,3,11,10,7,0,1,0,0,Meditation,0,0,Travelling
+R485,0,18,6,0,0,6,1,6,1,0,0.5,5,1,1,Listening to music,1,1,School/college
+R486,1,21,6,4,0,6,1,6,1,0,0,4,0,0,Driving,0,1,Roaming around freely
+R487,0,19,2,0,0,3,0,7,3,1,2,2,2,0,Online surfing,0,0,School/college
+R488,0,19,0,2,0,1,0.5,8,1,0,0,3,2,0,Scrolling through social media,0,1,Nothing
+R489,0,22,2,2,0,2,0,8,1,0,1,3,1,1,Reading books,0,0,School/college
+R490,1,21,3,2,0,7,3,6,1,1,0,3,1,0,Meditation,1,0,School/college
+R491,1,24,2,1,1,6,0,6,3,1,0.5,4,0,0,Listening to music,0,0,School/college
+R492,0,20,4,0,0,4,0,8,2,1,0,1,1,0,Reading books,0,0,School/college
+R493,0,20,2,2,1,2,0,12,4,0,0,3,1,0,Talking to your relatives,0,1,"Friends , relatives"
+R494,0,24,5,2,0,2,0,6,3,0,0,4,2,0,Watching web series,0,1,Eating outside
+R495,1,21,5,2,0,6,0,7,2,3,0.5,3,2,0,Online surfing,1,1,School/college
+R496,1,20,3,0,0,6,2,5,3,2,0,3,1,0,I run,1,1,Travelling
+R497,0,22,5,0,1,0,1,8,4,4,0,3,1,0,Online surfing,0,1,Eating outside
+R498,0,20,7,0,0,0,1,6,2,4,1,4,1,0,Online gaming,0,1,Roaming around freely
+R499,0,20,0.5,0,1,3,1,10,3,0,2,2,2,1,Scrolling through social media,0,0,"Friends , relatives"
+R501,0,22,0.5,0,0,1,1,8,3,0,0,4,2,0,Online gaming,0,0,Roaming around freely
+R502,0,21,4,2,0,1,0,10,2,1,0,3,2,0,Online gaming,0,1,School/college
+R503,0,19,3,0,0,2,1,6,2,0,0,3,2,0,Online gaming,0,1,School/college
+R504,0,13,3,2,1,2,1,7,2,1,0,3,0,0,Dancing,1,1,"Friends , relatives"
+R505,1,10,4,2,1,2,1,8,1,1,2,3,1,0,Dancing,1,1,School/college
+R506,0,21,4,0,0,2,0,6,1,2,0,3,2,0,Online surfing,0,1,Travelling
+R507,0,20,2,0,0,3,0,11,1,1,1,3,1,0,Sleeping,0,0,School/college
+R508,1,22,1,0,1,2,1,6,2,0,0,3,2,0,Online surfing,1,1,School/college
+R509,1,20,4,2,0,0,0,12,2,0,2,3,2,0,Scrolling through social media,0,0,Roaming around freely
+R510,0,20,0,1,0,2,0,10,4,0,0,3,2,0,Online gaming,0,0,"Friends , relatives"
+R511,1,20,0,2,0,1,1,8,4,1,0,3,2,0,Sleeping,0,1,School/college
+R512,0,21,0,2,1,4,1,7,2,4,4,4,2,0,Online gaming,1,1,"Friends , relatives"
+R513,1,19,4,0,0,3,2,8,2,0,1,4,1,0,Online gaming,1,1,"Friends , relatives"
+R514,0,13,2,4,1,2,1,6,6,0,8,4,2,0,Online gaming,1,1,"Friends , relatives"
+R515,0,20,2,2,0,3,0,7,5,0,6,2,2,0,Online gaming,0,0,Eating outside
+R516,0,17,2,2,1,5,3,5,1,1,0.5,3,0,0,Running,0,1,School/college
+R517,0,11,1,3,0,1,1,15,3,2,1,4,2,0,Listening to music,1,1,School/college
+R518,1,17,2,4,1,3,1,8,3,1,1,2,2,0,Listening to music,1,1,School/college
+R519,0,17,1,2,1,2,0,8,1,2,1,2,0,0,Talking to your relatives,0,1,School/college
+R520,1,19,4,0,0,5,0,8,3,5,2,3,2,0,Watching web series,0,1,School/college
+R521,0,20,6,3,0,5,2,6,10,5,15,3,1,0,Talking,1,1,School/college
+R522,1,18,3,3,0,4,2,7,2,2,2,3,2,0,Dancing,1,1,Travelling
+R523,1,20,4,2,0,3,0,8,4,2,2,4,2,0,Listening to music,0,1,Eating outside
+R524,1,19,0,0,0,1,0,9,6,5,0,4,2,0,Sleeping,0,0,Travelling
+R525,1,17,3,2,1,3,3,9,2,2,0,3,2,0,Online gaming,0,0,"Friends , relatives"
+R526,0,19,0,0,1,0,1,10,7,2,1,3,2,1,Online gaming,0,1,School/college
+R527,0,21,1,2,0,8,2,8,2,1,1,3,1,1,Online gaming,0,0,Roaming around freely
+R528,0,34,2,2,0,1,0,7,6,1,6,3,1,0,Listening to music,1,1,Travelling
+R529,0,15,4,0,1,4,0,7,1,2,2,3,2,0,Listening to music,0,0,"Friends , relatives"
+R530,0,19,2,0,0,0,1,12,2,0,1,3,0,1,Listening to music,0,0,Travelling
+R532,0,17,6,2,1,4,0,7,9,2,0.5,2,2,0,Scrolling through social media,0,1,"Friends , relatives"
+R533,1,26,2,0,0,1,1,8,4,4,0,3,0,0,Scrolling through social media,0,1,Travelling
+R534,1,20,0,0,0,1,1,7,0.5,0,0.5,3,2,0,Reading books,1,1,School/college
+R535,0,22,3,2,0,6,2,8,4,0,1,4,1,0,Cooking,1,1,"Friends , relatives"
+R536,0,20,6,1,0,2,2,8,1,0,0,3,0,0,Listening to music,1,0,Roaming around freely
+R537,0,21,4,0,0,2,2,8,4,2,4,3,0,0,Watching web series,1,1,"Friends , relatives"
+R538,0,14,3,3,5,2,0,6,1,1,1,1,2,0,Listening to music,1,1,School/college
+R539,0,20,5,0,0,6,1,7,2,2,0,3,1,0,Watching web series,0,1,Eating outside
+R540,1,19,2,4,1,2,1,10,2,2,1,2,1,0,Sleeping,1,1,School/college
+R541,1,44,3,2,1,4,0,6,1,4,1,2,1,0,Reading books,1,1,Roaming around freely
+R542,0,20,1,0,2,2,3,8,2,1,2,2,0,0,Reading books,1,1,"Friends , relatives"
+R543,1,22,3,2,0,6,1,6,3,1,2,3,1,0,Sleeping,0,1,The idea of being around fun loving people but this time has certainly made us all to reconnect (and fill the gap if any) with our families and relatives so it is fun but certainly we do miss hanging out with friends
+R544,0,21,1,1,1,4,1,8,4,2,0,3,1,0,Online surfing,1,1,School/college
+R545,1,20,5,0,0,2,0,8,1,3,2,3,1,0,Online surfing,1,1,"Friends , relatives"
+R546,1,18,4,0,2,4,0,9,2,0,2,3,1,0,Watching web series,0,1,Travelling
+R547,0,15,1,3,1,2,1,8,1,1,2,2,2,0,Meditation,0,1,School/college
+R548,0,19,2,2,1,0,0,8,10,0,1,2,0,0,Online gaming,0,1,"Friends , relatives"
+R549,0,24,2,2,1,2,0,6,3,1,0,2,0,0,Sleeping,0,0,School/college
+R550,1,16,7,2,1,4,1,6,1,1,0,4,1,0,Listening to music,1,1,Eating outside
+R551,0,21,0,1,1,8,0,7,2,1,0.5,3,1,1,Online surfing,1,0,School/college
+R552,0,17,4,3,1,3,3,6,5,0,0,4,0,0,Exercise,1,1,All
+R553,1,15,5,3,1,2,1,7,0,2,0,2,2,0,Online gaming,0,1,Colleagues
+R554,0,16,2,0,1,1,0,9,1,1,0,3,0,0,Reading books,0,1,School/college
+R555,1,21,6,2,0,2,1,7,1.5,2,1.5,3,1,0,Watching web series,0,1,My normal routine
+R556,1,13,2,4,1,2,1,9,2,4,1,3,2,0,Scrolling through social media,1,0,School/college
+R557,1,22,3,0,1,2,1,9,1,1,1,4,1,1,Scrolling through social media,0,1,"Friends , relatives"
+R558,0,15,4,2,0,4,1,11,1,0,2,5,1,0,Listening to music,1,1,"Friends , relatives"
+R559,0,26,0.5,0,1,1,0,6,1,1,1,3,0,1,Sleeping,0,0,School/college
+R560,1,21,0,0,0,2,0,10,6,2,0,2,1,0,Online gaming,0,1,"Friends , relatives"
+R561,0,13,1,3,1,1,1,8,1,2,2,3,1,0,Listening to music,0,1,School/college
+R562,1,21,3,2,0,0,2,8,2,0,2,3,2,0,Online gaming,0,0,"Friends , relatives"
+R563,0,21,3,0,1,1,1,8,2,0,0,3,2,0,Watching web series,1,1,Travelling
+R564,1,17,2,2,1,1,1,8,7,0,0,4,2,0,Watching web series,0,1,Roaming around freely
+R565,1,20,1,3,1,3,1,8,3,2,1,4,1,0,Reading,0,1,School/college
+R566,1,18,3,3,1,2,0,8,1,2,1,3,0,0,Listening to music,1,0,School/college
+R567,1,19,2,0,0,8,0,8,1,2,0,4,0,1,Sleeping,0,0,Eating outside
+R568,1,21,4,2,0,4,1,8,3,0,1,3,2,0,Listening to music,0,0,School/college
+R569,1,20,8,4,1,8,1,7,2,2,1,4,2,0,Watching web series,1,1,Roaming around freely
+R570,1,21,8,3,0,2,1,7,1,1,0,3,1,0,Talking,1,1,Eating outside
+R571,0,32,2,3,1,0,0,11,1,1,3,4,1,0,Meditation,0,0,Eating outside
+R572,1,19,4,3,0,4,2,8,6,0,6,3,2,0,Meditation,0,1,Travelling
+R573,1,18,2,0,1,0,3,8,1,5,0,3,2,0,Exercising,0,1,ALL
+R575,1,18,0,0,1,0,0,7,3,0,2,4,1,1,Scrolling through social media,0,1,"Friends , relatives"
+R576,1,19,2,0,0,1,2,8,3,0,2,4,2,0,Sleeping,1,0,School/college
+R577,1,19,2,0,1,2,0,8,1.5,0,1,2,0,0,Watching web series,0,1,Roaming around freely
+R578,0,19,3,4,0,0,0,9,6,1,0,2,1,1,Meditation,1,1,Nothing
+R579,1,23,4,0,1,4,1,8,2,2,2,2,2,0,Cooking,0,1,Eating outside
+R581,1,22,4,0,0,1,0,9,1,2,1,4,1,0,Listening to music,1,1,Eating outside
+R582,1,12,6,3,2,4,0,7,1,2,2,4,2,0,Online gaming,0,1,School/college
+R583,1,8,2,4,0,1,1,5,1,2,1,2,1,0,Sleeping,1,1,School/college
+R584,1,17,0.75,4,1,4,1,7,1,1,0.3,2,0,0,Sleeping,1,1,School/college
+R585,1,21,3,4,0,1,0,11,3,5,2,1,1,0,Reading books,1,0,Eating outside
+R586,1,14,3,2,1,2,2,7,2,1,2,3,1,0,Online gaming,1,0,School/college
+R587,0,20,4,0,1,3,0,8,1,4,0,1,2,0,Scrolling through social media,0,1,NOTHING
+R588,1,22,0,0,1,2,1,6,0.5,2,0,1,0,0,Talking to your relatives,1,1,Roaming around freely
+R589,1,13,6,2,2,3,1,10,1,7,6,3,1,0,Talking to your relatives,1,1,ALL
+R590,1,21,2,0,1,0.5,1,8,1,2,0,4,2,0,Listening to music,1,1,Travelling
+R591,1,36,3,4,0,2,0,8,2,4,0,3,1,0,Reading books,0,1,Eating outside
+R592,1,13,4,3,4,3,1,9,3,0,2,2,0,0,Cooking,1,1,Colleagues
+R593,0,24,2,2,1,1,1,7,4,0,0,3,1,0,Football,1,1,School/college
+R594,0,46,2,0,1,0.5,0.25,7,1,1,1,3,1,0,Cooking,0,0,Travelling
+R595,1,16,5,3,0,8,0.5,6,0.4,0,0,3,1,0,Online gaming,1,0,Colleagues
+R596,1,25,2,3,0,3,0,7,2,3,3,2,1,0,Talking,1,1,Eating outside
+R597,1,24,6,3,0,8,0,9,2,2,0,3,0,1,Reading,1,1,Colleagues
+R598,1,17,4,0,1,2,0,10,3,4,4,2,1,0,Online surfing,1,1,School/college
+R599,1,16,1,2,1,2,0,10,2,2,3,4,1,0,Online gaming,0,1,School/college
+R600,1,20,3,0,0,6,1,8,3,0,1,4,2,0,Online surfing,1,1,School/college
+R601,1,40,5,0,0,3,0,6,3,1,0,3,2,1,Sleeping,1,1,Being social 
+R602,0,32,1,2,0,2,0.5,7,3,1,0,3,2,1,Scrolling through social media,0,1,Roaming around freely
+R603,0,14,5,2,1,2,0,9,1,1,2,2,1,0,Online gaming,1,1,School/college
+R604,1,18,4,2,0,2,3,7,4,0,1,2,0,0,Online surfing,0,0,School/college
+R605,1,52,0,3,0,2,1,8,2,2,0,4,1,0,Reading,1,1,Colleagues
+R606,1,21,1,0,0,8,0,8,2,2,2,2,0,1,Scrolling through social media,1,0,"Friends , relatives"
+R608,1,21,6,0,0,3,0,8,4,3,1,3,2,1,Listening to music,0,0,Eating outside
+R609,1,21,4,2,0,3,0,8,2,1,1,3,0,0,Scrolling through social media,0,0,"Friends , relatives"
+R610,1,22,1,0,0,10,2,7,1,1,0,3,1,0,Writing,1,1,Roaming around freely
+R611,1,19,0,0,1,4,0,8,4,0,0,1,2,0,Reading books,0,0,"Friends , relatives"
+R612,0,14,4,3,1,1,1,8,1,4,0.5,2,2,0,Social Media,1,0,Colleagues
+R613,1,18,1,2,1,2,0,7,1,1,0,3,0,1,Cooking,0,1,School/college
+R614,1,17,2,4,1,3,2,10,1,2,1,2,2,0,Watching web series,1,1,"Friends , relatives"
+R615,1,21,2,2,0,0,0,7,5,2,0,3,0,0,Online gaming,0,1,Travelling
+R616,1,22,2,0,0,2,0,6,5,0,0,2,2,0,Online surfing,1,1,School/college
+R617,0,15,3,0,1,2,0,10,1,2,2,2,2,0,Online surfing,0,1,School/college
+R618,1,25,6,3,0,0,1,7,3,0,0,2,2,0,Web Series,0,1,Colleagues
+R619,0,17,2,4,1,3,1,8,1,4,2,1,2,0,Sleeping,1,1,School/college
+R620,0,25,1,2,0,4,0.5,9,2,1,5,3,2,0,Online surfing,0,1,School/college
+R621,1,22,1,0,1,0,0,6,2,0,2,3,2,1,Watching web series,0,0,School/college
+R622,0,21,0,0,1,3,0,8,4,0,1,3,1,1,Scrolling through social media,0,1,"Friends , relatives"
+R623,0,20,1,3,0,3,1,12,3,2,2,4,1,0,Reading,1,1,School/college
+R624,0,21,2,3,1,5,0,12,3,2,0,4,1,0,Listening to music,0,0,Travelling
+R625,1,13,3.5,3,1,2,2,9,1,1,6,1,2,1,Listening to music,1,1,Colleagues
+R626,1,32,6,3,0,2,1,5,2,2,2,2,2,0,Dancing,1,1,Travelling
+R627,1,34,2,2,0,2,1,7,4,4,2,2,1,0,Cooking,0,0,"Friends , relatives"
+R628,1,22,0,0,1,1,0,8,5,1,1.5,3,1,0,Reading books,0,0,Roaming around freely
+R629,0,21,4,2,0,4,1,6,1,3,1,3,1,1,Meditation,1,0,School/college
+R630,1,17,1,3,1,1,1,8,2,0,1,3,2,0,Web Series,0,1,School/college
+R631,1,13,4,4,1,5,1,13,2,1,3,2,0,1,Reading books,1,1,"Friends , relatives"
+R632,1,30,4,2,0,3,1,7,1,2,1,3,1,0,singing,0,0,School/college
+R633,1,21,2,2,1,1,1,9,2,2,2,3,1,0,Watching web series,0,1,School/college
+R634,0,28,3,3,0,4,1,9,2,2,0,3,1,0,Listening to music,1,1,Travelling
+R635,1,21,4,0,0,3,0,6,2,0,0,2,1,0,Online gaming,0,0,Eating outside
+R636,0,15,2,4,1,5,3,11,1,1,1,4,2,0,Reading books,0,1,School/college
+R637,1,16,1,3,1,1,1,7,2,2,2,2,1,0,Online gaming,1,1,School/college
+R638,1,40,3,2,1,1,0.5,7,4,0,1,3,1,0,Talking to your relatives,1,1,Travelling
+R639,1,43,2,3,0,2,1,7,1,1,1,2,1,0,Sleeping,1,1,Travelling
+R640,1,25,1,2,1,2,0,10,1,1,1,3,2,0,Cooking,0,1,School/college
+R646,0,17,0.75,3,1,2,2,6,1,0,1,3,2,0,Exercise,1,1,School/college
+R647,0,18,0.75,3,1,1,1,12,1,4,1,3,2,0,Exercise,1,1,School/college
+R648,0,17,0.75,3,1,2,1,12,1,0,1,3,2,0,Exercise,1,1,School/college
+R649,1,30,4,4,0,4,0,5,6,1,1,2,1,0,Watching web series,1,1,Roaming around freely
+R650,1,19,4,2,0,4,1,8,0,2,0,2,2,0,Online gaming,0,0,Roaming around freely
+R651,1,21,0,0,1,2,0,10,2,0,0,3,1,0,Watching web series,0,0,Roaming around freely
+R652,0,20,4,3,0,6,0,8,3,4,0,3,2,0,Online gaming,1,1,Travelling
+R653,1,19,5,0,1,1,1,5,2,2,4,3,2,0,Listening to music,0,1,School/college
+R654,1,19,3,0,0,2,1,8,3,2,0,3,1,0,Dancing,0,1,School/college
+R655,1,19,0,0,1,0,0,12,4,2,6,3,0,0,Watching web series,0,0,Travelling
+R656,0,20,4,2,0,2,1,7,1,10,0,3,0,1,Exercising,0,1,Roaming around freely
+R657,1,19,4,0,1,5,0,6,2,1,0,3,2,0,Reading books,1,1,School/college
+R658,0,20,0,0,0,3,0,8,4,2,2,4,2,1,Meditation,0,0,Travelling
+R659,0,19,2,0,0,2,1,9,1,0,0,2,0,1,Listening to music,1,1,Travelling
+R660,1,21,6,0,1,4,1,7,2,1,0,4,2,0,Scrolling through social media,0,0,"Friends , relatives"
+R661,1,20,4,0,1,3,0,8,3,2,0,3,1,0,Online gaming,0,0,Travelling
+R662,1,20,4,0,0,4,1,7,1,0,2,4,1,0,Sleeping,0,1,"Friends , relatives"
+R663,1,20,5,2,0,0.5,0,8,1,1,0.5,3,1,0,Scrolling through social media,0,1,School/college
+R664,1,20,5,0,1,2,1,7,1,2,0,5,2,0,Cardio,1,1,Roaming around freely
+R665,0,22,6,2,1,2,1,11,6,0,2,4,2,1,Watching web series,0,0,"Friends , relatives"
+R666,1,22,3,0,0,2,0,9,4,0,1,4,2,0,Online gaming,0,1,"Friends , relatives"
+R667,1,21,1,2,1,1,2,8,2,0,0.5,3,0,0,Online gaming,0,1,Roaming around freely
+R668,1,30,2,0,0,1,1,5,1,2,0,3,1,0,Talking to your relatives,1,1,Roaming around freely
+R669,1,21,2,0,0,2,0,6,3,1,0,3,1,0,Online surfing,0,0,"Friends , relatives"
+R670,1,22,3,2,0,3,1,8,3,0,0,2,0,0,Dancing,1,0,"Friends , relatives"
+R671,0,21,4,3,1,3,1,8,3,0,3,3,2,0,Online gaming,1,1,Colleagues
+R672,0,21,5,0,1,1,0.5,9,1.5,0,0,3,1,0,Scrolling through social media,0,0,Roaming around freely
+R673,0,19,5,3,0,3,0,9,5,1,1,3,1,0,Online gaming,1,1,Travelling
+R674,1,22,1,0,0,2,1,9,1.5,1,0.5,3,1,1,Watching web series,0,0,"Friends , relatives"
+R675,1,20,6,2,0,2,1,8,4,0,0,2,1,0,Online gaming,0,0,Roaming around freely
+R676,1,21,3,4,0,6.5,0,7,0.5,1,0,3,1,0,Listening to music,1,0,Roaming around freely
+R678,0,21,3,2,0,2,1,7,2,2,1,3,0,0,Online surfing,1,1,Travelling
+R679,0,21,0,0,0,4,1,8,1,3,0,4,1,0,Scrolling through social media,1,0,Roaming around freely
+R680,0,21,5,3,0,4,2,8,1,0,0,4,0,1,Cooking,0,0,Travelling
+R681,1,22,0,0,1,0.5,1,10,1,2,0,3,2,0,Online gaming,0,1,Eating outside
+R682,1,20,0,0,0,0,0,10,10,0,0,3,2,0,Online gaming,0,1,"Friends , relatives"
+R683,1,20,3,3,0,3,1,7,2,0,1,2,1,0,Online gaming,1,1,School/college
+R684,1,18,2,2,1,1,1,10,4,2,1,4,2,0,Online gaming,0,0,Eating outside
+R685,1,19,0,2,0,3,1,9,2,0,0,2,1,0,Online gaming,0,0,Eating outside
+R686,1,21,3,2,0,4,1,7,1,2,2,4,0,0,Meditation,0,1,"Friends , relatives"
+R687,0,19,4,1,0,5,2,7,0.5,1,0,4,1,1,Listening to music,1,1,School/college
+R688,0,22,3,0,0,3,0,7,4,2,0,3,2,0,Listening to music,0,0,"Friends , relatives"
+R689,1,21,7,0,0,0,0,8,3,0,0,3,1,0,Online surfing,1,0,Eating outside
+R690,0,20,0,0,0,2,2,9,2,0,0.5,3,0,0,Listening to music,1,1,School/college
+R691,1,20,4,0,1,2,1,6,2,0,1,3,2,0,I cant de-stress myslef,1,1,all
+R692,1,21,4,3,1,2,1,7,3,0,0,3,1,0,Listening to music,1,1,School/college
+R693,1,23,3,0,0,6,1,7,1.5,0,0.5,3,2,1,working out and some physical activity,1,1,School/college
+R694,1,22,0,0,0,1,0,14,2,1,2,3,2,0,Sleeping,0,0,Roaming around freely
+R695,0,20,4,0,0,1,2,12,2,1,2,3,1,0,Listening to music,1,1,ALL
+R696,1,20,6,0,0,6,1,8,0,3,1,3,0,0,Online surfing,0,1,nothing
+R697,1,21,3,2,0,3,0,9,2,3,0,8,2,0,Watching web series,1,1,Roaming around freely
+R698,1,19,1,2,0,3,0,10,4,0,0,3,0,0,Online surfing,0,0,Roaming around freely
+R699,1,22,0,2,0,6,1,6,1,2,2,3,1,0,Online gaming,1,1,Gym
+R700,0,20,3,1,0,5,1,7,1,1,0,3,2,1,Watching web series,0,0,Roaming around freely
+R701,0,19,1,2,0,2,1,7,3,0,0,3,1,0,Reading books,0,1,"Friends , relatives"
+R702,1,22,2,3,0,10,1,6,1,1,0,6,2,0,Listening to music,1,1,Travelling
+R703,1,19,2,0,0,1,2,5,4,0,1,2,0,0,Listening to music,1,1,"Friends , relatives"
+R704,1,18,3,2,1,1,1,9,4,0,0.5,4,1,0,Listening to music,1,1,"Friends , relatives"
+R705,1,20,2,2,0,2,1,9,1,2,1,3,1,0,Listening to music,1,0,Roaming around freely
+R706,1,19,2,0,0,2,0,12,2,1,0,2,0,0,Listening to music,1,1,School/college
+R707,1,23,2,2,1,5,1,12,1,3,0,3,1,1,Listening to music,1,0,School/college
+R708,1,19,0,2,1,1,0,8,4,2,3,3,2,0,Online gaming,0,1,Roaming around freely
+R710,0,19,2,3,0,3,1,8,2,2,1,3,1,1,Reading,1,1,School/college
+R711,1,17,7,0,0,3,2,6,2,0,0,4,1,0,Sleeping,1,0,Eating outside
+R712,1,18,7,2,0,2,1,8,3,1,1,3,0,0,Watching web series,1,1,"Friends , relatives"
+R713,1,22,2,3,4,1.5,1,7,1,2,2,3,2,0,Web Series,0,0,Travelling
+R714,1,21,4,2,0,4,0,7,2,1,1,3,2,0,Watching web series,1,1,"Friends , relatives"
+R715,1,17,3,2,0,2,0,6,2,0,0,3,2,0,Online gaming,0,1,"Friends , relatives"
+R716,1,19,0,3,2,0.5,1,6,2,0,1,4,2,0,Web Series,0,1,School/college
+R717,1,20,5,0,1,2,2,6,3,2,2,2,0,0,Reading books,0,0,Roaming around freely
+R718,1,17,4,0,1,1,0,6,2,0,0,3,2,0,Listening to music,0,0,"Friends , relatives"
+R719,1,21,3,0,0,3,1,8,3,0,2,2,2,0,Listening to music,0,0,"Friends , relatives"
+R720,1,19,2,2,1,2,0,9,5,0,1,2,1,0,Sleeping,0,0,School/college
+R721,1,20,1.5,0,1,2.5,2,9,1,2,1.5,2,0,1,Listening to music,0,1,Travelling
+R722,1,21,3,0,0,3,0,9,4,7,0.75,4,2,0,Sleeping,0,0,School/college
+R723,0,19,2,2,0,4,1,6,3,0,1,4,2,0,Scrolling through social media,0,1,"Friends , relatives"
+R724,1,38,4,4,0,5,1,6,1,2,2,3,2,0,Online gaming,1,1,Roaming around freely
+R725,1,19,3,2,1,7,1,6,1,3,1,4,2,0,Talking to your relatives,1,1,School/college
+R726,1,17,2,2,0,0,0,11,1.5,0,2,4,1,0,Talking to your relatives,0,1,Eating outside
+R727,0,18,3,3,0,3,0,10,2,0,0,2,2,0,Listening to music,0,1,Colleagues
+R728,1,20,5,0,0,2,3,10,1,2,0.5,2,0,1,Writing my own Comics & novels,1,1,Playing
+R729,1,20,2,0,1,6,1,5,4,2,0.5,1,2,1,Listening to music,1,1,Travelling
+R730,1,23,0,2,0,1,1,9,3,3,0,3,2,0,Listening to music,1,1,Travelling
+R731,0,29,2,2,0,2,1,8,0,2,0,2,1,0,Reading books,0,1,nothing
+R732,1,20,0,0,0,6,0,9,1,1,1,3,2,0,Sleeping,0,0,Travelling
+R733,0,22,1,0,1,4,0.25,10,1,3,0,3,1,0,Sleeping,0,1,.
+R734,1,18,2,2,0,3,1,8,2,2,3,3,2,0,Online surfing,1,1,School/college
+R735,1,15,4,3,1,4,1,4,3,2,2,3,1,0,Sleeping,1,1,Colleagues
+R736,1,19,4,2,1,5,1,8,2,2,1,3,1,0,Meditation,1,1,Travelling
+R737,1,20,2,0,1,2,0,9,10,2,1,2,0,0,Online gaming,1,1,Nothing
+R738,0,21,1,0,1,4,1,9,1,1,1,3,1,0,Watching web series,1,0,Eating outside
+R739,0,21,4,2,0,3,0,8,2,2,1,3,0,0,Online gaming,1,1,Roaming around freely
+R740,1,20,4,0,1,1,1,10,2,0,1,3,2,1,Dancing,0,1,Eating outside
+R741,1,20,2,2,1,1,2,8,4,4,2,4,0,0,Reading books,0,1,Travelling
+R742,0,19,0,0,1,2,1,7,4,0,0,2,1,0,Meditation,0,1,Travelling
+R743,0,28,3,3,0,1,0,10,1,1,0,2,2,0,Online gaming,0,1,Eating outside
+R744,1,19,6,3,0,6,0,8,2,2,0.5,2,2,0,Listening to music,1,0,Travelling
+R745,1,21,2,2,1,2,1,8,1,2,0,3,1,0,Sleeping,0,0,"Friends , relatives"
+R746,1,23,0,3,0,3,0,10,4,2,1,3,2,0,Online gaming,0,1,Eating outside
+R747,1,20,3,3,0,2,1,7,5,1,2,3,1,0,Reading,0,1,School/college
+R748,1,22,4,3,0,2,1,12,2,0,2,3,1,0,Talking,0,1,School/college
+R749,1,20,2,2,1,4,1,8,2,2,0,3,2,0,Listening to music,1,1,School/college
+R751,0,20,5,3,0,4,1,7,3,2,1,3,2,0,Reading,1,1,Travelling
+R752,0,23,3,3,0,2,1,6,1,1,0,2,1,0,Reading,1,1,Eating outside
+R753,0,21,2,0,1,2,1,8,4,1,1,4,2,0,Scrolling through social media,0,1,Travelling
+R754,1,19,3,0,1,2,1,9,5,0,1,3,1,0,Listening to music,0,0,"Friends , relatives"
+R755,0,23,3,3,0,5,0,6,1,2,0,2,1,0,Web Series,0,1,School/college
+R756,0,20,4,2,1,2,0,8,2,1,4,3,1,0,Sleeping,1,1,"Friends , relatives"
+R757,0,22,2,3,0,2,1,8,2,1,0,4,2,0,Web Series,1,1,Travelling
+R758,1,19,2,1,1,2,2,8,3,2,0,4,0,1,Gym,1,0,Roaming around freely
+R759,0,21,5,0,1,4,1,7,1,2,0,3,1,0,Meditation,1,1,"Friends , relatives"
+R760,0,20,0,0,1,5,0,8,1,2,0,3,0,1,I have no problem of stress ,0,1,I have missed nothing 
+R761,0,21,1,0,0,5,1,11,2,0,0,3,2,0,workout,0,1,Eating outside
+R762,1,22,5,3,0,3,0,7,2,1,0,3,1,0,Sleeping,1,1,Travelling
+R763,1,18,4,3,1,2,0.5,6,2,1,0,4,1,0,Online gaming,1,0,School/college
+R764,1,21,1,3,0,1,2,7,2,2,0,3,1,0,Listening to music,1,1,Colleagues
+R765,0,22,2,2,0,5,0.3,8,1,3,1,3,2,1,Listening to music,0,0,Roaming around freely
+R766,0,20,4,2,0,3,1,9,3,0,1,2,2,0,Meditation,0,1,"Friends , relatives"
+R767,1,19,6,0,1,4,2,6,2,0,0,4,0,1,Online gaming,1,1,"Friends , relatives"
+R768,1,21,0.5,0,1,2,1,9,1,2,0,3,2,0,Reading books,0,1,Travelling
+R769,1,21,1,0,0,0,0,9,3,1,0,3,1,0,Watching web series,0,0,School/college
+R770,1,19,4,0,1,2,1,9,7,0,3,3,2,0,Sleeping,0,1,School/college
+R771,0,21,2,0,1,2,0,8,1,5,0,3,2,1,Reading books,0,1,School/college
+R772,0,23,5.5,4,0,3,1,8,1,1,0,2,0,0,Watching web series,1,1,School/college
+R773,1,21,0,0,1,0,0,9,4,2,0,4,2,0,Watching web series,0,0,Eating outside
+R774,1,40,6,2,0,3,0,7,2,1,2,3,1,0,No able to reduce the stress ,0,1,Travelling
+R775,1,20,4,3,0,1,0,9,2,0,0,3,2,0,Social Media,0,1,School/college
+R776,0,40,5,4,0,4,0.5,6,1,1,2,2,1,0,Talking to your relatives,1,1,Travelling
+R777,1,19,3,2,1,1,1,6,2,0,0,3,0,0,Watching web series,1,1,School/college
+R778,0,18,2,0,0,4,0,8,1.5,0,0,2,1,0,Watching web series,0,0,School/college
+R779,1,23,3,2,0,2,1,6,3,5,2,4,1,0,Listening to music,1,1,"Friends , relatives"
+R780,0,21,7,2,0,8,0,6,1,3,1,4,2,0,Listening to music,0,1,"Friends , relatives"
+R781,0,12,5,2,1,2,1,7,0,6,1,4,1,0,Cooking,1,1,"Friends , relatives"
+R782,0,20,0.5,0,1,1,1,8,0.5,1,2.5,3,1,0,"Sleeping, Online games",0,1,All
+R784,0,30,4,2,0,3,1,7.8,4,1,2,3,2,0,Watching web series,0,0,Roaming around freely
+R785,0,21,5,2,0,1,1,8,2,0,2,4,1,0,Watching web series,1,1,"Friends , relatives"
+R786,1,20,1,0,0,0,0,8,4,1,0,4,2,0,Listening to music,0,1,"Friends , relatives"
+R787,1,22,3,2,0,5,0,8,2,0,0,2,1,1,Listening to music,1,1,"Friends , relatives"
+R788,1,40,1,4,0,2,1,6.7,1,1,1,2,1,0,Online surfing,1,1,"Friends , relatives"
+R789,0,24,5,4,0,3,3,8,2,1,2,3,1,0,By engaging in my work.,1,1,ALL
+R790,0,18,4,0,1,1,2,9,2,1,0.5,2,0,0,Listening to music,0,1,Roaming around freely
+R791,0,22,1,0,1,2,1,5,10,0,0,2,0,0,Watching web series,0,0,Roaming around freely
+R792,0,20,7,1,1,2,0,8,3,0,0,2,1,1,Scrolling through social media,0,1,Travelling & Friends
+R793,1,35,3,3,0,3,1,7,1,1,1,3,1,0,Sleeping,0,0,School/college
+R794,1,40,2,1,1,3,0,5,1,1,1,4,2,0,Watching web series,0,1,School/college
+R795,0,18,0,1,0,2,2,7,4,0,1,3,1,0,Online gaming,1,1,School/college
+R796,0,19,4,0,1,0,0,7,1,2,0,2,2,0,Listening to music,0,0,Eating outside
+R797,1,35,4,2,0,4,2,10,2,4,1,3,1,0,Online gaming,1,1,Roaming around freely
+R798,1,16,5,0,0,4,0.5,8,0.5,2,0,3,2,0,Reading books,0,0,Eating outside
+R799,0,30,1,3,1,1,1,7,1,1,0,4,1,0,Dancing,0,1,School/college
+R800,1,23,5,4,0,2,1,8,1,1,4,3,1,1,Meditation,1,1,"Friends , relatives"
+R801,0,19,2,2,0,5,0,9,2,0,0.5,3,2,1,Talking to your relatives,0,1,"Friends , relatives"
+R802,0,19,4,0,1,2,1,8,2,2,1,3,1,0,Listening to music,0,1,School/college
+R803,0,37,4,3,0,5,1,7,4,0,0,2,2,0,Talking,1,1,Travelling
+R804,1,21,3,0,0,2,0,7,1,0,0,2,2,0,Scrolling through social media,0,0,School/college
+R805,0,20,3,0,0,4,0,9,2,2,1,4,2,0,Scrolling through social media,1,0,"Friends , relatives"
+R806,1,24,0,2,1,1,1,8,1,3,0,3,1,0,Work,1,0,Roaming around freely
+R807,1,40,0,2,0,0,1,10,2,1,1,3,2,0,Watching web series,0,1,"Friends , relatives"
+R808,0,20,2,0,1,1,0.5,8,2,2,5,3,1,0,Listening to music,0,1,Roaming around freely
+R809,0,23,3,1,1,4,0,9,3,4,0,2,2,0,Watching web series,0,1,"Friends , relatives"
+R810,1,26,3,0,0,2,1,8,1,2,0,4,2,0,Listening to music,1,1,Roaming around freely
+R811,0,20,5,3,1,3,0,7,2,2,2,4,1,0,Online gaming,0,1,Travelling
+R812,0,22,0,0,1,4,1,8,0,6,0,4,1,1,"Painting,. Sewing",0,0,Travelling
+R813,0,14,5,3,0,4,0,8,2,4,2,3,2,0,Sleeping,0,1,School/college
+R814,0,20,0,0,1,1,0,10,4,2,1,3,2,0,Online gaming,0,1,Travelling
+R815,0,22,0,2,1,0,0,10,5,4,4,2,1,0,Drawing,0,1,School/college
+R816,0,40,5,2,1,2,1,8,4,1,6,3,1,0,Scrolling through social media,1,1,Roaming around freely
+R817,0,23,1,1,1,2,1,8,2,0,2,2,2,1,Meditation,0,1,School/college
+R818,0,21,3,0,1,2,2,7,3,1,3,2,1,0,Listening to music,1,1,"Friends , relatives"
+R819,0,21,5,2,1,5,0,5,2,0,1,2,1,0,Listening to music,1,0,To stay alone. 
+R820,1,34,2,2,1,1,1,7,4,1,2,3,2,0,Scrolling through social media,1,1,Travelling
+R821,0,40,1,2,1,1,1,8,3,4,2,2,0,0,Forming ,0,1,School/college
+R822,0,22,3,3,1,2,1,8,2,2,1,2,1,0,Online gaming,1,0,Colleagues
+R823,0,21,2,0,1,0,2,8,4,0,2,2,1,0,Cooking,0,0,Travelling
+R824,0,18,2,1,1,1,1,8.5,2,1,3,3,1,0,Listening to music,0,0,School/college
+R825,0,22,2,2,0,7,1,9,2,0,0,2,0,0,Scrolling through social media,0,0,Roaming around freely
+R826,0,21,0,0,1,2,3,9,1,1,1,1,0,1,Online surfing,0,0,Roaming around freely
+R827,0,22,3,0,0,5,1,8,3,4,1,4,1,0,Scrolling through social media,1,1,"Friends , relatives"
+R828,0,21,2,3,0,2,2,7,0.5,1,0,4,1,0,Reading,1,1,Colleagues
+R829,0,21,3,0,0,12,0,6,1,3,0,2,0,1,Scrolling through social media,0,0,School/college
+R830,1,21,2,0,1,3,0,8,2,0,0,2,2,1,Listening to music,0,0,School/college
+R831,0,20,4,0,0,4,0,11,3,0,0,3,2,0,Watching web series,0,0,Eating outside
+R833,1,21,3,0,0,5,0,7,1,2,0,4,1,0,Online gaming,1,0,Eating outside
+R834,0,20,4,2,0,5,0.5,8,1,1,2,3,2,0,Meditation,1,1,"Friends , relatives"
+R835,0,21,4,2,0,4,0,6,4,1,0,3,1,0,Meditation,1,1,"Friends , relatives"
+R836,1,21,3,0,1,8,1,8,1,1,0,3,1,0,Meditation,1,0,"Friends , relatives"
+R837,1,21,5,2,1,6,0,5,2,2,0,3,2,1,Online gaming,1,1,Eating outside
+R838,0,40,6,4,0,2,1,6,2,1,2,3,0,0,Listening to music,1,0,School/college
+R839,1,20,2,0,1,3,2,8,1,2,1,3,2,0,Listening to music,0,0,School/college
+R840,1,22,4,3,0,2,1,8,5,1,0,3,1,0,Social Media,0,1,School/college
+R841,1,19,5,2,1,6,1,6,0,1,0,3,1,0,Online surfing,1,1,School/college
+R842,1,22,3,3,1,3,0,12,1,2,4,2,1,0,Online gaming,0,0,All
+R843,1,20,6,0,0,4,1,6,3,1,0.5,3,1,0,Watching web series,1,1,"Friends , relatives"
+R844,1,36,4,3,0,2,1,10,1,2,1,3,2,0,Sleeping,1,1,Colleagues
+R845,1,23,4,3,0,2,0.5,7,3,2,1,3,1,0,Talking,1,1,Travelling
+R846,0,32,2,2,0,3,0,9,2,6,0.5,3,2,0,Reading books,0,1,School/college
+R847,0,24,2,2,1,3,0.5,9,2,5,0,2,1,0,Sleeping,1,1,Family
+R848,0,20,5,2,0,4,1,8,2,2,1,3,1,0,Listening to music,0,1,Roaming around freely
+R849,1,22,2,4,0,3,1,8,2,0,1,3,0,0,Online surfing,1,1,Eating outside
+R850,1,20,5,0,0,1,0,8,1,2,0.5,2,1,0,Listening to music,0,1,"Friends , relatives"
+R851,1,21,4,0,0,2,0,10,2,1,0,3,2,0,Listening to music,0,0,School/college
+R852,0,38,4,0,0,3,1,6,2,2,2,3,1,0,Sleeping,1,1,Travelling
+R853,1,27,3,3,0,2,1,8,2,0,0.5,4,0,1,Web Series,0,0,Travelling
+R854,0,20,2,2,0,2,0,7,2,1,1,3,2,0,Scrolling through social media,0,1,"Friends , relatives"
+R855,0,21,2,0,0,12,1,9,5,2,1,3,2,0,Online gaming,1,1,"Friends , relatives"
+R856,1,20,8,0,0,2,0,6,2,3,3,3,0,0,Listening to music,0,1,Eating outside
+R857,1,20,4,2,1,1,0,6,10,11,2,1,1,0,Online surfing,0,0,School/college
+R858,1,22,5,2,1,4,1,6,2,0,2,3,2,0,Listening to music,1,1,School/college
+R859,1,21,3,0,0,2,1,8,0.75,1,1,3,1,0,Listening to music,0,0,Badminton in court
+R860,0,21,3,0,0,1,0,8,1,0,0,3,2,0,Listening to music,0,1,Roaming around freely
+R861,1,21,4,0,1,6,0,9,2,2,0,2,1,0,Listening to music,0,1,School/college
+R862,1,21,4,0,1,1,1,7,2,0,0,4,2,0,Scrolling through social media,1,1,Eating outside
+R863,1,21,4,2,1,2,2,12,2,0,0,2,0,0,Online surfing,0,1,"Friends , relatives"
+R864,1,20,5,2,1,5,1,6,2,0,1,3,2,0,Listening to music,0,1,School/college
+R865,1,33,2,0,0,1,1,7,1,2,0,3,1,1,Online surfing,0,1,Travelling
+R866,1,20,4,0,1,5,1,10,3,1,0,2,1,0,Listening to music,0,0,School/college
+R867,1,21,3,2,1,2,2,7,1,1,3,2,1,0,Workout and listening music,1,1,Travelling
+R868,1,20,6,2,0,2,2,7,3,1,1,4,0,0,Meditation,1,0,"Friends , relatives"
+R869,1,37,2,3,0,1,1,7,0.5,1,1,2,1,0,Listening to music,1,1,Travelling
+R870,1,22,5,2,1,3,0,8,3,0,0,3,1,0,Both listining music and scrolling down social media,0,1,School/college
+R871,0,33,4,2,0,1,0,7,1,1,0,4,2,0,Cooking,1,1,School/college
+R872,0,17,1,0,1,2,0,7,2,7,1,3,2,1,Dancing,0,0,"Friends , relatives"
+R873,0,20,4,2,1,5,1,7,0.5,0,0,3,0,0,Listening to music,1,1,School/college
+R874,1,19,2,2,0,2,1,9,2,0,1,4,1,0,Listening to music,0,0,"Friends , relatives"
+R875,0,20,4,2,1,3,1,7,1,2,1,2,2,0,Meditation,1,1,Travelling
+R876,0,21,3,0,1,4,1,5,2,2,0,3,1,0,Sleeping,1,1,School/college
+R877,1,17,7,0,1,2,1,6,3,2,1,3,2,0,Watching web series,0,1,Travelling
+R878,0,20,3,1,1,2,0,7,3,2,1,2,0,1,Watching web series,0,1,"Friends, relatives & travelling"
+R879,0,20,7,0,0,4,0,7,2,0,1,3,1,0,Online gaming,1,1,Travelling
+R880,0,19,10,2,0,3,1,5,1,0,0.5,4,1,0,Reading books,0,0,"Friends , relatives"
+R881,0,21,5,2,0,2,0,9,1,0,2,3,1,0,Listening to music,0,0,ALL
+R882,0,20,8,2,0,5,1,5,3,0,0.5,3,1,0,Listening to music,0,1,Roaming around freely
+R883,0,36,5,3,0,4,1,5,1,1,1,2,1,0,Reading,1,1,Travelling
+R884,0,20,4,0,1,4,0,8,1,0,0,3,1,0,Meditation,0,0,Eating outside
+R885,0,31,4,3,0,3,2,9,2,3,0,2,0,0,Talking,1,1,Travelling
+R886,1,22,6,0,0,4,0,8,2,1,0.5,4,2,0,Sleeping,0,0,School/college
+R887,1,22,5,2,1,4,1,8,2,2,1,2,0,0,Listening to music,1,1,Travelling
+R888,1,28,3,3,0,2,1,8,4,0,1,3,1,0,Reading,1,1,Travelling
+R889,0,16,5,0,1,1,0,10,3,1,0,2,0,0,Scrolling through social media,0,0,"Friends , relatives"
+R890,1,20,2,2,1,3,0,12,7,0,1.5,4,0,1,Scrolling through social media,0,0,School/college
+R891,0,21,2,0,1,4,0,8,1,1,2,3,2,1,Listening to music,0,0,Roaming around freely
+R892,1,19,4,2,0,3,2,7,4,0,0,3,0,0,Online gaming,0,1,Travelling
+R893,1,20,6,2,0,2,1,8,2,0,1,3,1,0,Sleeping,1,1,Roaming around freely
+R894,0,14,2,3,1,2,1,8,3,1,1,3,2,0,Sleeping,0,1,School/college
+R895,0,26,1,2,1,3,1,8,4,2,0,3,0,1,Watching web series,0,1,Roaming around freely
+R896,1,21,3,0,0,2,0,8,6,0,5,4,2,0,Listening to music,0,1,Roaming around freely
+R897,0,34,1,3,1,3,0.5,7,0,6,1,1,1,0,Listening to music,0,0,Colleagues
+R898,1,19,5,0,1,2,0,6,3,0,0,1,2,0,Online gaming,0,1,Travelling
+R899,1,19,8,0,0,2,1,6,2,1,0,3,1,0,Sleeping,0,0,Roaming around freely
+R900,0,21,7,3,4,7,0,10,3,1,0,3,1,0,Sleeping,1,1,School/college
+R901,0,23,4,0,0,1,0,7,8,4,2,3,0,0,Online surfing,0,1,Travelling
+R902,1,19,5,0,1,2,0,7,3,0,0,3,2,0,Scrolling through social media,1,1,Eating outside
+R903,1,27,1,2,0,2,0,8,3,0,2,3,2,0,Cooking,1,1,Travelling
+R904,0,33,3,2,1,1,0,6,1,1,4,2,0,1,Sleeping,0,1,Roaming around freely
+R905,0,21,5,2,1,3,1,11,3,2,2,3,1,0,Cooking,0,0,School/college
+R906,0,21,2,0,1,3,0,8,4,1,1,3,1,0,Watching web series,0,0,All
+R907,0,24,0,0,1,1,0,5,4,3,6,3,0,1,Scrolling through social media,0,1,"Friends , relatives"
+R908,0,23,0,3,0,0,0,8,3,2,0,1,1,0,Social Media,0,0,Gym
+R909,1,20,5,3,0,1,1,8,1,0,1,4,0,0,Listening to music,1,1,Colleagues
+R910,0,29,10,3,0,7,1,6,7,1,2,2,1,0,Web Series,1,1,Eating outside
+R911,0,20,4,2,0,1,1,10,5,0,0.3,3,0,0,Online surfing,1,1,Travelling
+R912,1,21,1,3,1,5,0,7,2,3,2,2,1,0,Dancing,0,0,School/college
+R913,0,21,6,2,0,2,1,8,5,0,2,2,2,0,Reading books,0,1,Roaming around freely
+R914,1,19,7,2,0,1,1,5,6,0,1,3,1,0,Dancing,0,1,"Friends , relatives"
+R915,1,19,5,2,1,6,2,5,4,0,0,3,1,0,Scrolling through social media,1,1,School/college
+R916,1,39,2,4,2,1,1,7,1,1,0.5,3,1,0,Cooking,0,1,"Friends , relatives"
+R917,0,20,3,2,1,2,0,8,1,4,1,3,1,0,Meditation,0,1,School/college
+R918,1,19,5,2,0,2,0.5,8,2,1,1,3,2,0,Listening to music,0,1,Roaming around freely
+R919,0,23,2,2,0,6,2,7,4,4,2,4,1,0,Online surfing,1,1,Roaming around freely
+R920,0,21,5,2,0,2,0,10,2,1,0.5,3,2,0,Listening to music,1,0,School/college
+R921,0,10,5,2,0,2,1,9,1.5,1,1,4,2,0,Online gaming,1,1,everything
+R922,1,14,5,2,2,1,1,9,1,2,4,3,2,0,Online gaming,1,1,"Friends , relatives"
+R923,0,9,5,4,5,2,0.6,7,1,1,0,4,1,0,Online gaming,1,1,Eating outside
+R924,0,22,4,2,0,3,1,7,1,5,2,3,0,0,Online gaming,1,1,Roaming around freely
+R925,0,13,4,3,0,2,0,10,3,2,0,4,1,0,Online gaming,0,1,Colleagues
+R926,1,23,2,0,1,2,1,6,3,1,0,3,2,0,Listening to music,0,0,School/college
+R927,1,13,5,0,1,1,0.6,7,4,2,2,4,0,0,Listening to music,0,1,School/college
+R928,0,21,1,3,0,3,1,10,3,0,1,3,2,0,Social Media,1,1,School/college
+R929,0,34,3,2,1,6,0,6,1,1,1,3,1,0,Listening to music,1,1,School/college
+R930,1,14,9,3,1,2,1,9,1,0,0,2,1,0,Online gaming,1,1,Colleagues
+R931,1,32,2,2,1,2,1,6,1,2,0,1,1,0,Listening to music,1,1,Travelling
+R932,0,21,3,2,1,2,1,8,6,1,3,2,1,0,Painting,0,1,School/college
+R933,1,19,3,4,1,0,1,6,4,4,1,3,1,0,Listening to music,1,0,School/college
+R934,0,14,5,2,2,3,1,6,4,2,0,2,2,1,Listening to music,1,1,Travelling
+R935,1,22,1,2,1,1,0,9,3,0,0,3,2,0,Listening to music,1,1,Eating outside
+R936,0,26,9,0,0,2,0,5,3,3,1,3,2,0,Reading books,1,1,School/college
+R937,0,21,2,0,1,2,0,7,1,2,1,3,1,1,Listening to music,0,1,School/college
+R938,1,22,1,0,0,6,0,6,2,1,0,2,2,1,Watching web series,1,1,Travelling
+R939,0,21,2,2,0,3,1,8,6,0,2,3,1,0,Dancing,1,1,Travelling
+R940,0,40,5,4,0,4,1,7,6,3,2,3,1,0,Listening to music,1,1,School/college
+R941,0,15,2,3,0,2,0,11,5,2,0,3,1,0,Web Series,0,1,Nothing
+R942,1,16,3,2,1,3,0,10,5,0,3,4,1,0,Listening to music,0,1,Eating outside
+R943,0,20,4,0,1,3,1,8,5,2,2,4,2,0,Reading books,1,1,Roaming around freely
+R944,0,22,2,0,0,1,0,8,4,1,0,2,1,0,Online gaming,0,1,"Friends , relatives"
+R945,0,22,4,2,0,6,0,8,5,0,1,3,2,0,Listening to music,0,1,Eating outside
+R946,1,23,2,3,1,7,0,7,4,0,1,4,2,0,Dancing,0,1,Travelling
+R947,1,21,4,3,0,10,1,7,3,1,0,3,1,1,Listening to music,0,1,Travelling
+R948,0,17,3,2,1,2,1,8,5,1,3.5,1,1,0,Watching web series,1,1,School/college
+R949,1,24,0,2,0,10,1,8,1,1,0,3,2,0,Talking to your relatives,1,1,School/college
+R950,1,19,1,2,1,0,0,8,6,0,2,2,0,1,Online gaming,0,0,Eating outside
+R951,1,23,10,2,0,1,0,8,8,2,1,3,0,0,Watching web series,1,1,Travelling
+R952,1,21,6,2,1,2,1,7,3,1,1,3,0,0,Reading books,1,1,"Friends , relatives"
+R953,1,14,6,3,2,2,0,8.3,1,2,2.5,3,2,0,Online gaming,0,1,All
+R954,0,14,3,3,1,1,0,8,3,2,1,4,1,0,Web Series,0,1,Colleagues
+R955,1,23,2,2,0,6,1,7,2,3,1,3,2,0,Online gaming,0,1,School/college
+R957,0,33,2,2,1,1,0,6,1,1,0.5,2,1,0,Meditation,0,1,Travelling
+R958,1,11,4,3,1,2,0,9,1,1,0,3,1,0,Sleeping,1,1,School/college
+R959,1,20,3,3,0,2,1,10,2,0,0,4,2,0,Sleeping,1,1,Colleagues
+R960,0,23,2,2,1,2,0.3,8,1,1,0,3,0,0,Meditation,1,1,"Friends , relatives"
+R962,1,18,0,1,1,0,2,12,1,5,0,7,2,0,Online gaming,0,1,Roaming around freely
+R963,1,21,4,2,1,8,0,6,1,2,0,2,0,1,Online surfing,0,0,Travelling
+R964,1,38,2,0,0,4,0,7,3,1,1,3,2,0,Scrolling through social media,0,0,Roaming around freely
+R965,1,20,5,3,0,5,0,8,3,2,0,2,1,0,Reading,1,0,Colleagues
+R967,1,11,2,4,1,1,0,10,3,2,2,3,2,0,Online gaming,1,1,"Friends , relatives"
+R968,0,22,0,3,0,4,1,7,3,0,0,3,2,0,Listening to music,0,1,Travelling
+R970,1,21,8,0,0,1,1,9,2,0,0,3,1,1,Scrolling through social media,0,0,Eating outside
+R971,1,26,0,0,1,0,0,12,2,3,2,2,1,1,Listening to music,0,0,School/college
+R972,0,23,2,0,0,1,1,7.5,1,1,2,3,1,0,Online gaming,1,1,Travelling
+R973,1,19,3,2,1,5,1,6,1,2,0,2,1,0,Reading books,1,1,"Friends , relatives"
+R974,1,21,5,2,1,3,1,8,4,2,0,4,1,1,Cooking,0,0,School/college
+R975,1,20,4,0,0,3,0,9,2,0,1,2,1,0,Scrolling through social media,1,0,School/college
+R976,0,19,1,3,0,2,0,8,1,1,0.3,3,1,0,Dancing,0,1,School/college
+R977,0,20,4,0,1,2,0,10,1,0,0,3,0,0,Sleeping,0,0,Roaming around freely
+R978,1,19,2,2,0,3,0.5,8,2,0,1,3,2,0,Watching web series,0,0,School/college
+R979,1,17,4,3,0,2,1,10,6,1,4,4,2,0,Listening to music,1,1,Colleagues
+R980,1,20,10,0,0,2,1,8,5,0,0,3,1,0,Scrolling through social media,0,0,Nothing
+R981,0,20,4,3,1,2,1,8,2,0,0.1,4,1,0,Cooking,1,1,School/college
+R982,0,27,4,2,1,2,0,7,8,2,4,3,2,0,Listening to music,0,1,Travelling
+R983,1,18,7,0,1,4,0,9,2,0,0,2,0,0,Online surfing,0,1,School/college
+R984,0,18,8,3,1,2,0.25,7,1.5,0,1,3,2,0,Talking,0,0,School/college
+R985,0,19,6,2,1,4,1,6,5,1,2,3,1,0,Online gaming,0,0,School/college
+R986,1,18,5,0,1,0,0,7,1,0,0.5,3,0,0,Online gaming,1,0,School/college
+R987,0,20,4,3,1,2,1,8,2,0,0.1,4,1,0,Cooking,1,1,School/college
+R988,0,19,6,0,0,2,0,8,2,0,0,3,2,0,Listening to music,0,0,Roaming around freely
+R989,1,19,6,2,0,5,1,7,3,0,0.3,4,2,0,Watching web series,1,1,School/college
+R990,1,18,8,0,1,0,1,6,5,1,0,2,0,0,Online gaming,0,1,Roaming around freely
+R991,1,18,4,0,1,0,1,8,2,0,0.3,3,1,0,Sketching,1,1,"Friends , relatives"
+R992,1,19,8,3,1,2,2,8,5,0,1,2,0,1,Dancing,0,1,School/college
+R993,1,26,1,2,1,1,0,8,3,4,0,3,2,0,Listening to music,0,1,School/college
+R994,0,18,8,2,1,3,1,5,4,2,2,2,0,0,Listening to music,0,0,School/college
+R995,0,19,2,3,1,2,1,8,3,1,2,1,0,1,Listening to music,0,1,School/college
+R996,0,18,5,2,1,2,0,6,1,0,0,3,1,0,Talking to your relatives,0,1,School/college
+R997,0,21,2,2,0,1,0,12,3,0,0,2,2,0,Listening to music,0,1,School/college
+R998,0,19,0,0,0,8,0,8,10,0,0,3,1,1,Talking to your relatives,1,1,"Friends , relatives"
+R999,0,23,2,2,0,2,2,7,5,1,2,2,1,0,Scrolling through social media,0,1,"Friends , relatives"
+R1000,0,22,4,3,0,2,0,9,3,0,1,2,2,0,Listening to music,1,1,School/college
+R1001,1,19,8,2,1,4,0,6,1,1,2,2,1,0,Sleeping,0,1,School/college
+R1002,0,19,6,3,0,2,0,8,10,0,0,4,2,0,Social Media,0,1,School/college
+R1004,1,18,6,0,1,4,0,7,3,0,0.3,4,0,0,Online surfing,1,1,School/college
+R1005,0,12,0,4,1,3,1,8,1,1,2,2,2,0,Reading books,1,1,School/college
+R1006,0,18,5,3,1,3,2,8,3,2,0,3,1,0,Listening to music,0,1,Travelling
+R1007,1,19,4,0,0,3,0,8,2,2,0,3,1,0,Listening to music,1,0,Roaming around freely
+R1008,1,19,6,2,0,2,2,6,3,0,0.3,2,2,0,Listening to music,0,1,School/college
+R1009,1,20,3,0,0,2,0,7,3,0,0,4,0,1,Reading books,0,0,School/college
+R1010,0,26,4,0,1,2,0,7,2,0,0,3,2,0,Listening to music,0,1,Travelling
+R1011,0,20,3,0,0,2,1,8,1,1,1,4,2,0,Online gaming,0,1,School/college
+R1012,0,23,4,3,1,2,1,7,3,3,1,3,1,1,Cooking,1,1,Colleagues
+R1013,1,26,4,0,1,3,1,7,2,2,1,3,1,0,Listening to music,0,0,Roaming around freely
+R1014,1,19,4,2,0,2,0.5,8,2,1,1,2,1,0,Watching web series,0,0,"Friends , relatives"
+R1015,0,22,0,3,0,2,1,9,2,0,2,2,1,0,Sleeping,1,1,School/college
+R1016,0,23,3,2,1,4,1,8,3,1,2,3,1,0,Online surfing,1,0,School/college
+R1017,1,20,2,3,1,3,1,6,2,1,3,2,1,0,Sleeping,0,1,Travelling
+R1018,0,29,5,2,0,3,1,8,2,3,2,3,1,0,Watching web series,1,1,Travelling
+R1019,0,28,5,3,0,4,1,10,2,1,1,3,1,0,Online gaming,1,1,School/college
+R1020,1,32,3,2,0,2,0,6,2,1,0.3,3,2,1,Talking to your relatives,1,1,"Friends , relatives"
+R1021,0,21,0,1,1,1,2,7,2,0,0.5,4,0,0,Meditation,1,1,Travelling
+R1022,0,24,1,3,1,3,2,8,2,2,0,2,1,0,Social Media,1,1,Eating outside
+R1023,1,25,0,3,0,4,1,8,2,1,0,2,1,1,Web Series,0,1,Travelling
+R1024,1,32,4,2,0,4,1,6,0.3,1,0,3,1,0,Cooking,1,1,School/college
+R1025,1,35,1,3,1,3,1,7,2,1,0,2,1,0,Talking,1,1,Travelling
+R1026,1,27,0,3,1,2,0,8,2,2,2,3,1,0,Sleeping,0,1,Travelling
+R1027,1,36,3,2,0,2,0,10,2,2,0,3,2,0,Watching web series,0,0,Travelling
+R1028,1,22,5,0,0,1,1,8,1,5,0.5,3,0,1,Sleeping,1,1,Eating outside
+R1029,1,20,6,3,0,4,1,6,1,0,0,3,2,0,Listening to music,1,1,School/college
+R1030,0,16,4,0,1,2,0,9,2,2,0,2,1,0,Scrolling through social media,0,1,School/college
+R1031,0,38,2,2,0,3,1,5,3,1,0,3,2,0,Listening to music,1,0,Roaming around freely
+R1032,1,24,2,3,1,0,1,9,5,0,3,4,2,0,Online gaming,1,1,Colleagues
+R1033,0,25,0,0,1,2,0,7,5,4,0,3,1,0,Listening to music,0,1,Roaming around freely
+R1034,0,20,2,0,1,8,1,6,1,2,0,3,1,0,Watching web series,1,1,"Friends , relatives"
+R1035,1,22,2,0,1,1,0,9,3,2,2,2,0,1,Listening to music,0,1,School/college
+R1036,1,23,4,2,1,3,1,8,2,1,0,4,1,0,Scrolling through social media,0,1,School/college
+R1037,0,24,2,0,1,6,0,12,4,5,0,4,1,0,Scrolling through social media,0,1,School/college
+R1038,1,20,0,2,1,0,2,9,2,2,0.5,3,1,0,Sports,0,1,School/college
+R1040,0,20,5,2,0,4,1,8,1.5,0,1,3,2,0,Listening to music,0,1,Eating outside
+R1041,0,19,3,0,0,3,0,8,3,1,0,3,1,1,Scrolling through social media,0,0,Eating outside
+R1042,0,18,4,0,0,1,1,10,3,1,1,4,2,0,Reading books,0,0,Eating outside
+R1043,0,20,5,0,0,3,0.5,10,3,1,2,3,2,0,Sleeping,1,0,"Friends , relatives"
+R1044,0,21,6,3,0,4,1,8,2,1,0.5,3,1,0,Web Series,1,1,Travelling
+R1045,0,20,2,0,0,1,0,6,1,5,2,3,0,0,Listening to music,0,0,Roaming around freely
+R1046,0,20,2,3,1,2,1,8,2,0,3,3,0,0,Sleeping,1,1,Colleagues
+R1047,0,21,4,4,0,2,0,8,0.5,1,4,3,2,1,Meditation,1,1,"Friends , relatives"
+R1048,1,22,2,2,0,2,1,8,3,1,0.5,3,1,0,Scrolling through social media,0,0,"Friends , relatives"
+R1049,1,22,2,0,1,3,1,10,4,0,2,4,1,0,Scrolling through social media,0,1,Eating outside
+R1050,1,21,0,1,1,1,0,7,0,1,0,2,2,0,Reading books,1,1,"Friends , relatives"
+R1051,1,19,4,0,0,3,0,10,4,2,0,2,2,1,Sleeping,0,0,School/college
+R1052,1,18,2,2,1,2,1,8,1.3,0,2,4,1,0,Drawing and painting and sketching,0,1,"Friends , relatives"
+R1053,1,20,3,0,1,2,0,6,3,0,0,2,2,0,Reading books,1,0,Roaming around freely
+R1054,1,20,3,2,1,3,1,11,3,4,0,3,1,0,With a friend,0,1,School/college
+R1055,0,18,0,3,1,3,1,7,2,0,1,4,1,0,Meditation,1,1,Colleagues
+R1056,1,31,8,0,0,1,0,8,2,1,1,2,1,0,Online gaming,0,1,Roaming around freely
+R1057,1,18,6,0,0,2,0,8,1,0,0.5,2,2,0,Watching web series,0,1,School/college
+R1058,0,23,2,3,1,1,1,5,2,6,1,2,0,0,Cooking,1,1,Nothing
+R1059,0,20,3,2,0,2,0,9,5,2,0,4,2,0,Scrolling through social media,0,0,Eating outside
+R1060,1,33,4,2,1,2,1,6,4,2,1,3,2,1,Talking to your relatives,1,1,School/college
+R1061,1,24,2,2,1,4,0,6,3,0,0,4,2,0,Watching web series,0,1,Travelling
+R1062,0,17,5,0,0,0.5,0.3,7.5,0.5,2,0.3,3,1,0,Online gaming,1,0,Travelling
+R1063,0,15,4,2,0,3,0,8,2,0,1,3,1,0,Painting,1,1,Eating outside
+R1064,0,17,4,2,0,5,2,7,0.4,2,0.5,3,1,0,"Reading books, music, exercise",0,1,Friends and roaming around freely
+R1065,0,16,4,4,5,3,1,8,5,2,5,3,2,0,Listening to music,0,0,Roaming around freely
+R1066,0,15,8,2,2,4,0,5,2,2,1,3,1,0,Watching ted talks and music and books,1,0,School/college
+R1067,0,16,8,3,1,5,0,9,1,2,0,2,2,0,Social Media,0,0,Colleagues
+R1068,0,16,5,2,0,2,1,10,1,6,2,4,2,0,Listening to music,1,1,Travelling
+R1069,0,15,7,3,1,3,2,6,0,1,1,3,1,0,Sleeping,0,1,School/college
+R1070,0,16,5,0,1,1,2,10,1.5,0,0,3,1,0,Online gaming,0,0,Roaming around freely
+R1071,1,16,4,0,1,4,1,7,2,0,0,3,1,0,Watching web series,0,1,"Friends , relatives"
+R1072,1,16,7,3,2,3,0,8,0.5,1,0,2,0,0,Listening to music,0,0,All
+R1073,0,30,2,0,0,0,1,8,1,2,8,4,2,0,Watching web series,0,0,NOTHING
+R1074,0,16,5,0,1,2,0.5,7,1,2,2,3,1,0,Calling friends,0,1,"Friends , relatives"
+R1075,1,15,5,2,0,4,1,8,2,1,1,3,1,0,Listening to music,1,1,"Friends , relatives"
+R1076,1,16,4,2,0,8,1,8,0.5,2,0.5,4,0,0,Listening to music,1,1,School/college
+R1077,1,15,4,0,0,4,0,5,4,2,0,3,0,0,Online gaming,0,0,School/college
+R1078,1,15,4,3,1,4,1,7,2,2,1,4,1,0,Online gaming,1,1,School/college
+R1079,1,15,8,0,1,2,0,8,1,2,0,3,2,0,Online gaming,0,1,School/college
+R1080,1,16,7,3,1,2,0,8,0.5,2,1.5,3,1,0,Talking,0,1,School/college
+R1081,1,15,3,2,1,4,0.5,7,1,0,1.5,4,2,0,Listening to music,1,1,Eating outside
+R1082,0,16,8,2,0,1,0.3,8,0,9,0,2,2,1,no stress,0,0,"Friends , relatives"
+R1083,1,16,7,2,0,3,0,8,3,2,2,2,1,0,"Drawing, painting",0,0,School/college
+R1084,1,15,4,2,0,4,1,7,1,1,1.5,3,1,0,Reading books,1,1,"Friends , relatives"
+R1085,1,16,8,2,0,8,0,7,2,1,0,3,1,0,Listening to music,0,0,School/college
+R1087,1,15,5,4,0,4,0.5,8,0,6,1,3,1,0,Sleeping,1,1,"Friends , relatives"
+R1088,1,16,8,2,1,4,0,5,8,1,3,3,1,0,Listening to music,1,1,"Friends , relatives"
+R1089,1,16,8,3,0,4,0,7,2,1,0,2,2,0,Social Media,0,1,School/college
+R1090,1,16,4,3,1,4,1,7,2,1,1,2,1,0,Listening to music,1,1,Colleagues
+R1091,1,16,7,3,1,3,0,7,2,0,1,2,2,0,Listening to music,0,1,Colleagues
+R1092,1,16,6,2,0,1,0.5,9,1,1,1,2,0,0,All reading books watching web series listening to music and talking to friends,0,1,"Friends , relatives"
+R1093,1,17,6,2,1,1,0,8,1,8,0,2,1,0,Online gaming,0,0,Metro
+R1094,1,16,8,0,1,5,1,8,1,4,1,3,1,0,Sleeping,1,1,"Friends , relatives"
+R1095,1,16,4,2,0,1,1,9,2,2,0.4,4,1,0,Online gaming,1,0,"Friends , relatives"
+R1096,1,15,9,4,0,10,0.5,6,0,1,2,3,1,0,Reading books,0,1,"Friends , relatives"
+R1097,1,17,3,0,1,6,0,8,2,2,0,3,1,0,Online gaming,1,1,School/college
+R1098,1,16,6,0,1,3,1,10,1,2,0.5,3,1,0,Sleeping,1,1,ALL
+R1099,1,16,8,2,0,0,0,6,6,0,0,3,1,0,Listening to music,0,0,School/college
+R1100,1,16,8,2,0,1,0,8,1,2,2,2,1,0,Online gaming,1,1,School/college
+R1101,1,15,5,0,1,3,1,9,3,0,0,3,0,0,Scrolling through social media,1,1,Eating outside
+R1102,1,16,4,3,1,3,1,8,1,1,1,4,1,0,Talking,1,0,Eating outside
+R1103,1,17,4,0,0,0,1,7,1,2,3,4,2,0,Online gaming,0,0,"Friends , relatives"
+R1104,1,25,5,2,0,1,3,6,5,0,0,3,0,0,Watching web series,1,1,Travelling
+R1105,1,20,0,0,1,6,1,9,3,2,0,3,2,0,Listening to music,1,1,Travelling
+R1106,1,16,5,0,1,2,1,8,1,1,4,2,2,0,Talking to your relatives,0,1,"Friends , relatives"
+R1107,1,16,4,0,1,5,1,7,1,0,1,3,2,0,Online surfing,1,0,Roaming around freely
+R1108,1,15,5,3,0,2,2,6,0.5,1,2,3,1,0,Social Media,0,0,Travelling
+R1109,1,16,4,0,1,2,2,6,5,2,0,4,2,0,Sleeping,0,1,School/college
+R1110,1,24,6,2,1,6,0,7,2,2,0,3,0,0,Do some home related stuff,1,0,Travelling
+R1111,1,16,5,4,1,1,1,11,0,1,2,3,1,0,Listening to music,0,1,"Friends , relatives"
+R1112,1,16,5,2,0,4,0,6,1,0,0,3,1,0,Painting ,1,1,"Friends , relatives"
+R1113,1,16,5,2,1,2,1,10,1,1,0.5,3,1,0,Listening to music,0,1,School/college
+R1114,0,15,6,2,1,1,1,9,1,0,2,3,0,0,Listening to music,1,1,"Friends , relatives"
+R1115,0,17,2,0,2,8,3,5,0,2,1,4,2,0,Youtube,0,1,School/college
+R1116,1,16,5,2,0,8,2,5,2,2,0,4,1,0,Taking with parents,1,1,School/college
+R1117,1,12,5,3,2,1,0,7,4,2,0,2,2,0,Online gaming,1,1,School/college
+R1118,1,14,4,4,1,2,1,9,1,1,2,3,1,0,Listening to music,1,1,"Friends , relatives"
+R1119,0,13,4,4,1,3,0.25,8,1,2,0.5,1,2,0,Online gaming,1,1,"Friends , relatives"
+R1120,0,12,5,3,1,5,0,6,1,2,2,2,1,0,Listening to music,1,1,Colleagues
+R1121,1,15,6,2,1,11,0.25,7,5,2,0,4,2,0,"Online gaming , surfing and listening to music ",1,1,Travelling
+R1122,1,13,5,4,2,4,1,8,0,2,0.5,4,1,0,Listening to music,1,0,School/college
+R1123,0,12,4,3,2,1,1,9,1,2,3,3,2,0,Listening to music,0,1,Colleagues
+R1124,0,13,6,3,1,2,2,6,1,2,1,1,0,0,Listening to music,1,1,Colleagues
+R1125,1,16,4,3,0,1,1,7,1,0,3,2,1,0,Listening to music,1,1,Travelling
+R1126,1,12,4,4,1,2,1,6,0,2,2,2,1,1,Listening to music,1,1,"Friends , relatives"
+R1127,1,14,4,3,1,3.5,0,9,2,2,3,3,1,0,Listening to music,1,1,School/college
+R1128,1,13,8,3,1,3,1,13,1,1,2,2,2,0,Meditation,0,1,Colleagues
+R1129,1,13,6,2,0,2,0,5,1,2,0,3,1,0,Online gaming,0,0,"Friends , relatives"
+R1130,1,14,6,2,0,8,1,8,1,2,0.1,2,1,0,Scrolling through social media,0,0,Roaming around freely
+R1131,1,14,4,2,1,0,1,9,3,2,1,3,1,0,Online gaming,1,1,School/college
+R1132,1,14,6,3,1,3,1,7,1,1,1,4,1,0,Sleeping,1,1,School/college
+R1133,1,14,6,2,1,2,1,4,1,2,2,3,1,0,Dancing,1,0,"Friends , relatives"
+R1134,1,14,4,4,1,2,2,12,1,1,2,3,0,0,Watching web series,1,1,School/college
+R1135,0,13,5,3,2,4,1,8,1,2,0,2,0,0,Listening to music,1,0,Colleagues
+R1136,1,18,7,2,1,4,0,6,1,1,0,2,1,0,Listening to music,0,0,"Friends , relatives"
+R1137,1,13,3,3,2,4,1,7,1,2,3,3,2,0,Online gaming,0,1,School/college
+R1138,1,14,6,2,1,3,1,10,1,1,2,4,1,0,Sleeping,1,1,School/college
+R1139,1,13,3,0,1,1,2,7,3,2,2,3,1,0,Online gaming,0,1,Nothing
+R1140,1,13,4,2,1,2,1,8,2,2,5,3,1,0,I play Rubiks cube,0,1,ALL
+R1141,1,12,5.5,3,1,2,1,7,3,2,1,2,1,0,Social Media,1,1,School/college
+R1142,1,11,4,4,1,2,0,11,1,1,2,2,1,0,Meditation,1,1,"Friends , relatives"
+R1143,1,12,6,4,2,2,0.5,9,1,1,1,3,2,0,Youtube,1,1,"Friends , relatives"
+R1144,1,13,2,3,1,2,1,6,1,1,0,2,0,0,Listening to music,0,1,Eating outside
+R1145,1,14,6,3,0,3,1,6,1,2,1,3,1,0,Sleeping,1,1,School/college
+R1146,1,16,4,2,1,2,0,5,1,2,1,3,2,0,Online gaming,1,0,Travelling
+R1147,1,10,4,3,1,2,1,7,0,6,1,3,1,0,Talking,1,1,School/college
+R1148,1,13,5,4,1,3,1,8,2,2,1,2,2,0,Reading books,1,1,School/college
+R1149,0,12,4,2,1,1,1,8,2,2,0.5,2,1,0,Scrolling through social media,1,1,"Friends , relatives"
+R1150,1,15,8,3,0,1.5,0.5,8,0.5,1,0.3,3,1,0,Online gaming,0,1,Colleagues
+R1151,1,14,5,2,5,2,0,9,0.5,1,0.5,4,2,1,Listening to music,1,1,Travelling
+R1152,1,14,3,2,1,1,1,10,1,1,2,2,0,0,Listening to music,1,1,"Friends , relatives"
+R1153,1,13,4,2,1,1,0,10,1,6,1,2,1,0,Online gaming,0,1,"Friends , relatives"
+R1154,1,15,4,0,1,2,1,9,0.5,0,2,4,1,0,Online gaming,1,1,"Friends , relatives"
+R1155,0,17,6,0,1,3,1,7,1,0,1,2,0,0,Gym,0,1,School and friends.
+R1156,0,22,5,2,0,4,0,8,3,3,0,2,2,0,Talking to your relatives,0,1,School/college
+R1157,0,13,6,3,1,2,0,11,1,1,0.5,3,1,0,Online gaming,1,1,Colleagues
+R1158,0,11,5,2,1,2,1,8,1,1,0.5,1,0,0,Watching web series,1,0,School/college
+R1159,1,13,4,3,1,1,0.5,7,1,0,2,4,2,0,Listening to music,1,1,School/college
+R1160,0,14,5,4,1,2,0,12,2,2,1,3,1,0,Listening to music,0,1,"Friends , relatives"
+R1161,1,12,6,3,0,2,2,8,7,7,2,3,1,0,Social Media,1,1,Eating outside
+R1162,1,13,4,4,0,4,1,8,0,1,1,2,1,0,Listening to music and reading books both . ,1,1,ALL
+R1164,1,12,4,3,1,2,1,8,0,1,3,4,1,0,Meditation,1,1,Colleagues
+R1165,1,12,5,4,0,3,1,7,0,6,2,2,1,0,Listening to music,1,1,Eating outside
+R1166,1,13,6,4,1,7,0,5,0,2,0,3,1,0,"Poetry, writing books and novels , listening to music too",1,0,Nothing
+R1167,0,14,6,4,0,1,2,7,1,1,1,4,2,0,Sleeping,1,1,Roaming around freely
+R1168,1,14,6,3,1,2,1,8,1,1,1,1,0,0,Social Media,0,1,Colleagues
+R1169,1,12,6,4,1,5,1,8,2,2,1,2,1,0,Listening to music,1,1,School/college
+R1171,1,14,6,2,1,2,0.5,10,1,1,1,3,1,0,Sleeping,1,1,School and my school friends
+R1172,1,14,3,4,1,5,2,12,0.25,1,0,3,2,0,Sleeping,1,1,School/college
+R1173,1,12,4,4,1,3,2,10,1,1,1,4,2,0,Sleeping,1,1,"Friends , relatives"
+R1174,1,14,4,4,1,2,1,6,1,1,1,2,1,0,Listening to music,1,1,School/college
+R1175,1,13,6,0,0,3,1,8,2,1,2,3,0,0,Listening to music,1,0,"Friends , relatives"
+R1176,1,12,5,4,1,2,1,12,0,2,1,3,1,0,Dancing,1,1,"Friends , relatives"
+R1177,1,13,5,4,0,4,1,8,1,1,1.5,3,0,0,Listening to music,1,1,School/college
+R1178,1,12,4,0,1,1.5,0,9,5,2,1,4,2,0,Painting,0,1,"Friends , relatives"
+R1179,1,13,6,4,0,2,0.5,9,1,1,3,4,1,0,Online gaming,1,1,"Friends , relatives"
+R1180,1,12,6,2,1,3,1,9,1,1,1,4,1,0,Listening to music,0,1,Roaming around freely
+R1181,1,12,5,3,0,2,0,8,2,2,1,3,1,0,Listening to music,1,0,Colleagues
+R1182,1,13,6,3,2,2,1,6,1,2,2,3,0,0,Dancing,1,1,Colleagues
+R1183,1,16,7.5,3,0,4.5,0,6,0.5,1,2,4,1,0,Listening to music,1,1,Colleagues
+R1184,0,13,5,4,0,6,1,6,0,2,0,4,1,0,Listening to music,1,1,School/college
+R1185,1,13,4,3,1,4,1,8,1,1,2,3,0,0,Reading,1,1,School/college
+R1186,1,15,5,2,1,2,1,13,1,2,1,2,1,0,Online surfing,0,1,School/college
+R1187,1,12,6,4,0,3,1,9,4,2,3,4,1,0,Talking to your relatives,1,1,School/college
+R1188,1,13,8,2,0,2,1,7,1,1,1,3,0,0,Cooking,1,1,Travelling
+R1189,1,15,5,3,2,4,1,7,2,1,0,4,2,0,Social Media,0,1,Travelling
+R1190,1,13,3,0,1,1,0.5,8,3,2,1,3,1,0,Watching YouTube ,0,0,School/college
+R1191,1,12,3,3,1,4,1,8,1,0,2,3,0,0,Dancing,1,1,Travelling
+R1192,1,14,6,2,1,4,1,9,1,1,1,4,1,0,Listening to music,1,1,"Friends , relatives"
+R1193,1,13,4,2,1,0,0.5,8,3,2,2,4,0,0,Online gaming,0,1,School/college
+R1194,1,14,5,4,0,3.5,1,8,0.5,2,1,4,1,0,Reading books,1,1,School/college
+R1195,1,13,5,3,2,2,0.5,7,1,1,1,3,1,0,Talking,1,1,School/college
